@@ -1,0 +1,320 @@
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	56
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	98
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	345
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	118
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	01	RECREATION CENTER 01	2038	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	108
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	205
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	140
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	35
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	115
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	02	CHURCH OF GOD 02	1709	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	76
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	64
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	152
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	107
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	36
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	126
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	03	PRESBYTERIAN CHURCH 03	1487	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	178
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	76
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	226
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	136
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	55
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	159
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	04	COLISEUM 04	1892	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	96
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	48
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	132
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	75
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	35
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	122
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	05	DIAGNOSTIC CENTER 05	1246	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	84
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	59
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	145
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	50
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	37
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	87
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	06	LURAVILLE 06	1122	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	117
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	43
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	07	FALMOUTH 07	739	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	154
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	08	ROCKY SINK 08	986	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	148
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	95
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	173
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	82
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	98
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	09	DOWLING PARK 09	1282	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	205
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	80
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	10	MCALPIN 10	1299	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	126
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	236
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	62
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	11	O'BRIEN 11	1337	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	144
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	54
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	250
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	92
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	49
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	105
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	12	WELLBORN 12	1626	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	17
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	136
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	275
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	69
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	34
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	116
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	13	BRANFORD 13	1689	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	13
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	80
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	141
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	26
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	54
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	14	CLAYLAND 14	891	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	70
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	150
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	15	PINEGROVE 15	988	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	100
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	191
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	56
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUW	Suwannee	10448	03/15/2016	2016 Presidential Preference Primary	16	RANCHETTES 16	1238	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2

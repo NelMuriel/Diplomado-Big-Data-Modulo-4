@@ -1,0 +1,95 @@
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	33
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	26
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	1	1 American Legion	275	91	184	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	28
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	38
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	23
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100002	OverVotes	 	0	901	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	2	2 Ortona VFD	321	139	182	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	14
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	17
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	3	3 Moore Haven Doyle Conn Bldg	229	62	167	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	21
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	5
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	4	4 Palmdale Comm Center	184	68	116	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	17
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	57
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	130
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	42
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	5	5 Muse VFD	928	491	437	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	26
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	6	6 Moore Haven Doyle Conn Bldg	534	94	440	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	20
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	110
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	37
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	7	7 Lakeport Comm Center	647	295	352	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	128
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	8	8 Buckhead Ridge Comm Center	855	374	481	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	20
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	9	9 Lakeport Comm Center	112	50	62	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Brighton Field Offices	144	41	103	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	5
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Brighton Field Offices	144	41	103	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Brighton Field Offices	144	41	103	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	5
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Brighton Field Offices	144	41	103	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	8
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Brighton Field Offices	144	41	103	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	6
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	18
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	30
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	17
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Moore Haven Doyle Conn Bldg	346	113	233	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	32
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Washington Park	157	1	156	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	36
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Washington Park	157	1	156	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	49
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	26
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	77
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	24
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GLA	Glades	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Indian Hills FD	485	292	193	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	28

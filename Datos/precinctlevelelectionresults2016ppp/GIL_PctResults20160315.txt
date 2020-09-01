@@ -1,0 +1,103 @@
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	60
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	138
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1A	1A Trenton Center	840	484	356	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	43
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	77
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	34
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1B	1B County Library	431	267	164	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	7
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	20
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	20
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	42
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	1C	1C County Library	305	102	203	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	13
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	297
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	59
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	2A	2A Donnie Center	1334	842	492	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	84
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	266
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	3A	3A Bell Community Center	1264	749	515	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	128
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	41
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	261
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	61
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	4A	4A Cruse Center	1211	741	470	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	5A	5A N Gilchrist Fire Station	641	408	233	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	40
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	158
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	63
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	288
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	6A	6A Osteen Center	1344	914	430	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	31
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	200
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	36
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	7A	7A Osceola Center	982	605	377	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	36
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	153
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	47
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+GIL	Gilchrist	10448	03/15/2016	2016 Presidential Preference Primary	8A	8A Southeast Center	957	527	430	0	President of the United States	 	100002	UnderVotes	 	0	902	1

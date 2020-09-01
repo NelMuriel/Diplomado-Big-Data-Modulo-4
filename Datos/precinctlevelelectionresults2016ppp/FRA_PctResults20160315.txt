@@ -1,0 +1,160 @@
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	57
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	48
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	126
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	75
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	116
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	01	EASTPOINT	1436	420	1016	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	16
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	38
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	55
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	02	ALLIGATOR POINT	325	183	142	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	20
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	45
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	231
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	135
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	03	NATIONAL GUARD ARMORY	1110	173	937	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	5
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	41
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	61
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	04	AMERICAN LEGION	336	107	229	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	48
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	117
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	05	CARRABELLE	1269	397	872	0	President of the United States	 	100002	UnderVotes	 	0	902	17
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	98
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	42
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	06	LANARK VILLAGE	463	261	202	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	51
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	102
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	104
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100002	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	07	ST. GEORGE ISLAND	709	375	334	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	21
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	46
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	OverVotes	 	0	901	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	29
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100002	OverVotes	 	0	901	1
+FRA	Franklin	10448	03/15/2016	2016 Presidential Preference Primary	08	AMERICAN LEGION HALL	775	166	609	0	President of the United States	 	100002	UnderVotes	 	0	902	7

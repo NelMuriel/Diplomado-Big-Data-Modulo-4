@@ -1,0 +1,286 @@
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Ted Cruz	REP	0	65063	49
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	Donald J. Trump	REP	0	65072	154
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	OverVotes	 	0	901	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	139
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	1	01 BUN CH	1532	493	746	293	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	Ted Cruz	REP	0	65063	82
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	Donald J. Trump	REP	0	65072	294
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	3	03 ST JPK	1665	916	735	14	President of the United States	 	100002	UnderVotes	 	0	902	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	60
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	5	07 STMCC	331	208	123	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	83
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	100
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	313
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	32
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	7	07 STMCC	1158	856	302	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Ted Cruz	REP	0	65063	171
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	John R. Kasich	REP	0	65068	69
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Marco Rubio	REP	0	65070	183
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	Donald J. Trump	REP	0	65072	744
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100001	UnderVotes	 	0	902	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	445
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	233
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	9	09 FBCOB	4083	2122	1843	118	President of the United States	 	100002	UnderVotes	 	0	902	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	83
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	92
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	357
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	219
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	10	10 FCSB	2419	1250	1169	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	77
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	62
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	263
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	206
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	127
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	11	11 RES	1921	827	1094	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	81
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	286
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	258
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	13	13 CTKLC	2073	920	1153	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	97
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	79
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	278
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	217
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	101
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	14	14 PCB	1913	899	1014	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	94
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	254
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	212
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	111
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	15	15 BTMS	1972	848	1124	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	68
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	205
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	164
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	16	16 WES	1539	669	870	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	52
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	181
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	OverVotes	 	0	901	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	141
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	17	17 BTSRC	1174	556	618	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	188
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	92
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	265
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	706
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	744
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	239
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	18	18 SHCLC	4396	2161	2235	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	143
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	429
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100001	UnderVotes	 	0	902	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	429
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	191
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	19	19 FCLIB	2941	1352	1589	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	85
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	236
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	OverVotes	 	0	901	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	194
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	20	20 PVBC	1409	705	704	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	143
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	158
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	570
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	368
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	196
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	21	21 BTES	3497	1779	1718	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	259
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	140
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	376
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1139
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	664
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	354
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	23	23 VFW	5692	3244	2448	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	171
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	97
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	268
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	789
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	419
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	204
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	27	27 PCCC	3708	2227	1481	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	168
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	124
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	412
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	770
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	301
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	147
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	29	29 ADED	3161	2251	910	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	101
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	81
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	343
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	500
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	235
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	31	31 GHVC	1909	1396	513	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Chris Christie	REP	0	65062	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	90
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	180
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	538
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	236
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	155
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	33	33 FBCH	2418	1472	946	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	51
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	84
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	248
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	179
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	87
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	35	35 FBMC	1222	695	527	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	108
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	41
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	134
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	376
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	162
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+FLA	Flagler	10448	03/15/2016	2016 Presidential Preference Primary	37	37 OKES	1667	1048	619	0	President of the United States	 	100002	UnderVotes	 	0	902	4

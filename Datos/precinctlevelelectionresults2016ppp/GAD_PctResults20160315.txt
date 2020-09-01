@@ -1,0 +1,500 @@
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	31
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	253
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	40
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	126
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	1		1234	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	70
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	37
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	89
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	583
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	164
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	2		1994	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	60
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	155
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	88
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	3		933	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	34
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	31
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	760
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	173
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	4		2248	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	21
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	953
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	117
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	5		2544	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	102
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	148
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	103
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	6		1013	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	9
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	7
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	21
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	261
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	7		886	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	37
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	87
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	47
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	8		554	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	35
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	63
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	358
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	29
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	9		1622	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	10
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	22
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	136
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	10		487	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	17
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	24
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	495
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	11		1480	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	37
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	149
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	30
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	12		745	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	5
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	6
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	545
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	69
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	13		1361	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	44
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	48
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	185
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	72
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	14		792	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	101
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	112
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	98
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	15		911	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	12
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	13
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	321
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	49
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	16		977	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	7
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	382
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	17		922	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	23
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	368
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	18		916	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	94
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	194
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	104
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	19		1083	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	61
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	199
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	20		884	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	12
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	30
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	134
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	21		482	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	10
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	11
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	225
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	22		673	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	15
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	152
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	23		670	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	170
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	23
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	24		384	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	3
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	5
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	124
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GAD	Gadsden	10448	03/15/2016	2016 Presidential Preference Primary	25		373	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1

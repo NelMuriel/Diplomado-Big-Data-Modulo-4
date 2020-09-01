@@ -1,0 +1,880 @@
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	45
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	228
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	1	PCT 1	1374	871	503	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	96
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	167
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	2	PCT 2	929	667	262	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	94
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	3	PCT 3	488	336	152	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	193
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	116
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	423
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	65
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	116
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	4	PCT 4	2367	1643	724	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	231
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	31
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	105
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	339
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	73
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	5	PCT 5	2029	1455	574	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	243
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	196
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	564
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	100
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	125
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100002	OverVotes	 	0	901	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	6	PCT 6	2792	1931	861	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	72
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	7	PCT 7	377	228	149	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	183
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	67
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	206
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	491
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	8	PCT 8	2142	1647	495	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	124
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	43
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	128
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	390
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	9	PCT 9	2036	1394	642	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	211
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	67
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	213
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	692
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	OverVotes	 	0	901	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	168
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	156
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100002	OverVotes	 	0	901	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	10	PCT 10	3113	2225	888	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	233
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	189
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	648
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	144
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	164
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	11	PCT 11	3606	2548	1058	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	203
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	194
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	696
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	158
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	138
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	12	PCT 12	3327	2359	968	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	98
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	102
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	325
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	50
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	56
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	13	PCT 13	1487	1100	387	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	208
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	45
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	186
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	614
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	135
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	136
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	14	PCT 14	2989	2122	867	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	195
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	82
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	242
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	646
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	92
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	15	PCT 15	2337	1913	424	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	190
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	102
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	250
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	42
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	51
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	16	PCT 16	1175	876	299	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	266
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	146
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	364
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	OverVotes	 	0	901	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	93
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	17	PCT 17	2259	1558	701	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	266
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	57
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	207
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	423
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	120
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	18	PCT 18	2089	1500	589	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	91
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	182
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	178
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	98
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	19	PCT 19	1463	760	703	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	119
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	127
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	222
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	OverVotes	 	0	901	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	20	PCT 20	1334	910	424	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	409
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	60
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	316
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	633
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	127
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	21	PCT 21	3208	2413	795	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	372
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	72
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	310
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	609
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	190
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	156
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	22	PCT 22	3214	2309	905	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	384
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	61
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	275
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	541
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	210
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	161
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	23	PCT 23	3630	2471	1159	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	86
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	151
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	53
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	24	PCT 24	1015	683	332	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	205
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	59
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	211
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	373
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	25	PCT 25	1861	1357	504	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	263
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	176
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	350
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	106
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	87
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	26	PCT 26	2063	1459	604	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Ben Carson	REP	0	65060	20
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	235
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	159
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	412
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	147
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	27	PCT 27	2686	1705	981	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	85
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	95
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	198
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	114
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	28	PCT 28	1595	898	697	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	112
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	119
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	283
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	230
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	136
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	29	PCT 29	2316	1101	1215	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	39
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	121
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	74
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	30	PCT 30	1017	530	487	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	29
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	224
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	72
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	192
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	417
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	260
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	29
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	191
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	31	PCT 31	3385	2010	1375	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	24
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	429
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	32	PCT 32	1563	168	1395	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	83
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	241
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	33	PCT 33	1541	408	1133	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	184
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	34	PCT 34	1022	664	358	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	171
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	61
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	184
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	291
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	131
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	117
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	35	PCT 35	1730	1150	580	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	71
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	47
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	36	PCT 36	787	312	475	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	118
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	301
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	254
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	141
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	37	PCT 37	2788	1272	1516	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	141
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	70
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	38	PCT 38	1267	665	602	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	282
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	53
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	251
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	397
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	161
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	124
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	39	PCT 39	2808	1874	934	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	111
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	99
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	200
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	106
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	40	PCT 40	1558	832	726	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	171
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	104
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	281
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	122
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	41	PCT 41	1862	1091	771	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	118
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	80
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	202
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	55
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	79
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	42	PCT 42	1456	935	521	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	169
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	82
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	43	PCT 43	1303	804	499	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	56
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	82
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	186
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAY	Bay	10448	03/15/2016	2016 Presidential Preference Primary	44	PCT 44	911	611	300	0	President of the United States	 	100002	UnderVotes	 	0	902	2

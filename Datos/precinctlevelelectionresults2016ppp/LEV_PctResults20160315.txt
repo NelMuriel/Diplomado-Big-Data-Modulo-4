@@ -1,0 +1,260 @@
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	103
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100002	UnderVotes	 	0	902	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Ted Cruz	REP	0	65063	77
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	Donald J. Trump	REP	0	65072	224
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	01	Bronson Ag Bldg	1509	782	727	449	President of the United States	 	100001	UnderVotes	 	0	902	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	156
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100002	UnderVotes	 	0	902	14
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	Donald J. Trump	REP	0	65072	365
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	02	Faith Baptist Tabernacle	1992	1091	901	518	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	210
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	171
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100002	UnderVotes	 	0	902	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Marco Rubio	REP	0	65070	88
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	Donald J. Trump	REP	0	65072	407
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	03	Bronson Dogan Cobb Bldg	2548	1204	1344	624	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100002	UnderVotes	 	0	902	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Ted Cruz	REP	0	65063	63
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Marco Rubio	REP	0	65070	72
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	Donald J. Trump	REP	0	65072	155
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	04	Cedar Key City Hall	999	506	493	239	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	114
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	135
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100002	OverVotes	 	0	901	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100002	UnderVotes	 	0	902	9
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Ted Cruz	REP	0	65063	165
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	John R. Kasich	REP	0	65068	33
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Marco Rubio	REP	0	65070	142
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	Donald J. Trump	REP	0	65072	514
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	05	Willow Sink	2337	1451	886	483	President of the United States	 	100001	UnderVotes	 	0	902	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	11
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100002	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	Donald J. Trump	REP	0	65072	97
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	06	Gulf Hammock Church of God	401	233	168	61	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	282
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	128
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100002	UnderVotes	 	0	902	6
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Ted Cruz	REP	0	65063	102
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Marco Rubio	REP	0	65070	97
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	Donald J. Trump	REP	0	65072	272
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	07	Williston Community Center	2274	942	1332	382	President of the United States	 	100001	UnderVotes	 	0	902	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	121
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100002	UnderVotes	 	0	902	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Ted Cruz	REP	0	65063	159
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Marco Rubio	REP	0	65070	102
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	Donald J. Trump	REP	0	65072	523
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	08	Morriston Baptist Church	2182	1350	832	616	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	141
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	121
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100002	OverVotes	 	0	901	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100002	UnderVotes	 	0	902	6
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Ted Cruz	REP	0	65063	126
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Marco Rubio	REP	0	65070	85
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	Donald J. Trump	REP	0	65072	388
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	09	Inglis Community Center	1730	1014	716	562	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	28
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	49
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100002	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Marco Rubio	REP	0	65070	42
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	Donald J. Trump	REP	0	65072	153
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	10	Pine Grove Baptist Church	787	500	287	89	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	100
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100002	UnderVotes	 	0	902	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Marco Rubio	REP	0	65070	45
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	Donald J. Trump	REP	0	65072	155
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	11	Miracle Vision Tabernacle	975	467	508	145	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	109
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100002	UnderVotes	 	0	902	3
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Marco Rubio	REP	0	65070	61
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	Donald J. Trump	REP	0	65072	258
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	12	Fanning Springs City Hall	1448	836	612	384	President of the United States	 	100001	UnderVotes	 	0	902	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	131
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100002	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100002	UnderVotes	 	0	902	4
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Ted Cruz	REP	0	65063	90
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Marco Rubio	REP	0	65070	71
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	Donald J. Trump	REP	0	65072	240
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	OverVotes	 	0	901	0
+LEV	Levy	10448	03/15/2016	2016 Presidential Preference Primary	13	Chiefland Tommy Usher Center	1573	782	791	308	President of the United States	 	100001	UnderVotes	 	0	902	1

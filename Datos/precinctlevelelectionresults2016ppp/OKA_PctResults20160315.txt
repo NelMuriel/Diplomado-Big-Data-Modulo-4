@@ -1,0 +1,1040 @@
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Ted Cruz	REP	0	65063	230
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	John R. Kasich	REP	0	65068	37
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Marco Rubio	REP	0	65070	159
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	Donald J. Trump	REP	0	65072	416
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	40
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	46
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	01	01	2194	1526	351	317	President of the United States	 	100002	UnderVotes	 	0	902	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Ted Cruz	REP	0	65063	64
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	Donald J. Trump	REP	0	65072	136
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	02	02	642	432	132	78	President of the United States	 	100002	UnderVotes	 	0	902	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Ted Cruz	REP	0	65063	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Marco Rubio	REP	0	65070	71
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	Donald J. Trump	REP	0	65072	202
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	24
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	03	03	1222	773	231	218	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	Donald J. Trump	REP	0	65072	180
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	28
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	36
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100002	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	04	04	1154	702	230	222	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Ted Cruz	REP	0	65063	78
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	Donald J. Trump	REP	0	65072	176
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	05	05	1006	571	244	191	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Ted Cruz	REP	0	65063	252
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	John R. Kasich	REP	0	65068	55
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Marco Rubio	REP	0	65070	173
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	Donald J. Trump	REP	0	65072	505
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	06	06	2965	1856	552	557	President of the United States	 	100002	UnderVotes	 	0	902	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Marco Rubio	REP	0	65070	61
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	Donald J. Trump	REP	0	65072	185
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	38
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	07	07	1449	853	275	321	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Ben Carson	REP	0	65060	19
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Ted Cruz	REP	0	65063	316
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	John R. Kasich	REP	0	65068	67
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Marco Rubio	REP	0	65070	244
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	Donald J. Trump	REP	0	65072	518
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100001	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	142
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	124
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	08	08	3846	2216	874	756	President of the United States	 	100002	UnderVotes	 	0	902	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Ted Cruz	REP	0	65063	283
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	John R. Kasich	REP	0	65068	66
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Marco Rubio	REP	0	65070	228
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	Donald J. Trump	REP	0	65072	493
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	159
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	98
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	09	09	3406	2030	683	693	President of the United States	 	100002	UnderVotes	 	0	902	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Ben Carson	REP	0	65060	22
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Ted Cruz	REP	0	65063	299
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	John R. Kasich	REP	0	65068	120
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Marco Rubio	REP	0	65070	344
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	Donald J. Trump	REP	0	65072	638
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	232
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	170
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	10	10	5656	2898	1309	1449	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Jeb Bush	REP	0	65057	54
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Ben Carson	REP	0	65060	51
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Chris Christie	REP	0	65062	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Ted Cruz	REP	0	65063	363
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	John R. Kasich	REP	0	65068	82
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Rand Paul	REP	0	65069	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Marco Rubio	REP	0	65070	451
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Rick Santorum	REP	0	65071	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	Donald J. Trump	REP	0	65072	564
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100001	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	213
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	210
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	11	11	6814	3605	1486	1723	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Ted Cruz	REP	0	65063	23
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	Donald J. Trump	REP	0	65072	27
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	127
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	26
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	12	12	837	195	468	174	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Ted Cruz	REP	0	65063	260
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	John R. Kasich	REP	0	65068	86
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Marco Rubio	REP	0	65070	200
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	Donald J. Trump	REP	0	65072	513
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	13	13	3537	2088	751	698	President of the United States	 	100002	UnderVotes	 	0	902	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Ted Cruz	REP	0	65063	196
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	John R. Kasich	REP	0	65068	79
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Marco Rubio	REP	0	65070	152
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	Donald J. Trump	REP	0	65072	335
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	68
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	14	14	2696	1535	496	665	President of the United States	 	100002	UnderVotes	 	0	902	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Ted Cruz	REP	0	65063	216
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Jim Gilmore	REP	0	65073	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Mike Huckabee	REP	0	65066	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	John R. Kasich	REP	0	65068	75
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Rand Paul	REP	0	65069	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Marco Rubio	REP	0	65070	229
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	Donald J. Trump	REP	0	65072	408
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100001	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	114
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	15	15	2802	1628	501	673	President of the United States	 	100002	UnderVotes	 	0	902	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Ted Cruz	REP	0	65063	158
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	John R. Kasich	REP	0	65068	71
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Marco Rubio	REP	0	65070	201
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	Donald J. Trump	REP	0	65072	371
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	112
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	16	16	2495	1416	526	553	President of the United States	 	100002	UnderVotes	 	0	902	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	John R. Kasich	REP	0	65068	59
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Marco Rubio	REP	0	65070	174
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	Donald J. Trump	REP	0	65072	319
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	132
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	17	17	3218	1489	842	887	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Ted Cruz	REP	0	65063	96
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	John R. Kasich	REP	0	65068	45
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Marco Rubio	REP	0	65070	123
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	Donald J. Trump	REP	0	65072	297
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	79
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	18	18	2051	1050	494	507	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	Donald J. Trump	REP	0	65072	145
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	19	19	1638	681	505	452	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Ted Cruz	REP	0	65063	104
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	John R. Kasich	REP	0	65068	55
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Marco Rubio	REP	0	65070	151
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	Donald J. Trump	REP	0	65072	456
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	OverVotes	 	0	901	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100001	UnderVotes	 	0	902	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	111
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	20	20	2371	1385	446	540	President of the United States	 	100002	UnderVotes	 	0	902	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Ted Cruz	REP	0	65063	163
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	John R. Kasich	REP	0	65068	64
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Marco Rubio	REP	0	65070	163
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	Donald J. Trump	REP	0	65072	359
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	107
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	21	21	2554	1458	538	558	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	John R. Kasich	REP	0	65068	36
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Marco Rubio	REP	0	65070	101
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	Donald J. Trump	REP	0	65072	245
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	22	22	2021	932	593	496	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Marco Rubio	REP	0	65070	16
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	Donald J. Trump	REP	0	65072	17
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	17
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	23	23	594	266	111	217	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Ted Cruz	REP	0	65063	110
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	John R. Kasich	REP	0	65068	63
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	Donald J. Trump	REP	0	65072	329
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	132
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	130
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	24	24	2773	1334	751	688	President of the United States	 	100002	UnderVotes	 	0	902	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Ted Cruz	REP	0	65063	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	John R. Kasich	REP	0	65068	50
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	Donald J. Trump	REP	0	65072	213
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	46
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	25	25	1732	1035	335	362	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Ted Cruz	REP	0	65063	230
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	John R. Kasich	REP	0	65068	81
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Marco Rubio	REP	0	65070	234
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	Donald J. Trump	REP	0	65072	405
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	66
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	26	26	2459	1648	330	481	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	Donald J. Trump	REP	0	65072	28
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	27	27	294	154	64	76	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	Donald J. Trump	REP	0	65072	66
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	28	28	354	221	69	64	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Ted Cruz	REP	0	65063	138
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	John R. Kasich	REP	0	65068	85
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Marco Rubio	REP	0	65070	224
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	Donald J. Trump	REP	0	65072	342
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	29	29	2083	1363	325	395	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Ted Cruz	REP	0	65063	72
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	John R. Kasich	REP	0	65068	43
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	Donald J. Trump	REP	0	65072	237
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	50
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	38
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	30	30	1475	841	235	399	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Ted Cruz	REP	0	65063	182
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	John R. Kasich	REP	0	65068	103
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Marco Rubio	REP	0	65070	217
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	Donald J. Trump	REP	0	65072	394
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	90
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	31	31	1942	1319	313	310	President of the United States	 	100002	UnderVotes	 	0	902	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Ted Cruz	REP	0	65063	137
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	John R. Kasich	REP	0	65068	89
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Marco Rubio	REP	0	65070	143
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	Donald J. Trump	REP	0	65072	448
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	83
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	32	32	2350	1412	453	485	President of the United States	 	100002	UnderVotes	 	0	902	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Ben Carson	REP	0	65060	25
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Ted Cruz	REP	0	65063	466
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	John R. Kasich	REP	0	65068	216
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Marco Rubio	REP	0	65070	596
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	Donald J. Trump	REP	0	65072	710
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	121
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	33	33	4412	3177	501	734	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Ted Cruz	REP	0	65063	146
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	John R. Kasich	REP	0	65068	62
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	Donald J. Trump	REP	0	65072	412
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	34	34	3415	1685	750	980	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Ted Cruz	REP	0	65063	162
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Mike Huckabee	REP	0	65066	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	John R. Kasich	REP	0	65068	79
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Marco Rubio	REP	0	65070	229
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	Donald J. Trump	REP	0	65072	588
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100001	UnderVotes	 	0	902	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	87
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	35	35	3033	1952	371	710	President of the United States	 	100002	UnderVotes	 	0	902	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Ted Cruz	REP	0	65063	228
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	John R. Kasich	REP	0	65068	94
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Marco Rubio	REP	0	65070	253
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	Donald J. Trump	REP	0	65072	348
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	94
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	36	36	2497	1678	343	476	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Jeb Bush	REP	0	65057	23
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Ted Cruz	REP	0	65063	216
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	John R. Kasich	REP	0	65068	141
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Marco Rubio	REP	0	65070	278
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	Donald J. Trump	REP	0	65072	494
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	93
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	52
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	37	37	2573	1783	326	464	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Ted Cruz	REP	0	65063	117
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	John R. Kasich	REP	0	65068	67
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Marco Rubio	REP	0	65070	146
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	Donald J. Trump	REP	0	65072	308
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100001	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	77
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	38	38	2155	1197	481	477	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Ted Cruz	REP	0	65063	128
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Lindsey Graham	REP	0	65065	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	John R. Kasich	REP	0	65068	51
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Marco Rubio	REP	0	65070	112
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	Donald J. Trump	REP	0	65072	280
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100001	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	96
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	39	39	2238	1118	555	565	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Chris Christie	REP	0	65062	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Ted Cruz	REP	0	65063	259
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	John R. Kasich	REP	0	65068	139
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Marco Rubio	REP	0	65070	342
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	Donald J. Trump	REP	0	65072	479
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	82
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	40	40	2849	1997	324	528	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Ted Cruz	REP	0	65063	84
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Marco Rubio	REP	0	65070	141
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	Donald J. Trump	REP	0	65072	224
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	41	41	1335	869	237	229	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Ted Cruz	REP	0	65063	106
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	John R. Kasich	REP	0	65068	47
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Marco Rubio	REP	0	65070	105
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	Donald J. Trump	REP	0	65072	196
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	165
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	42	42	2329	1021	719	589	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Ted Cruz	REP	0	65063	150
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	John R. Kasich	REP	0	65068	39
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Marco Rubio	REP	0	65070	153
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	Donald J. Trump	REP	0	65072	296
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	43	43	2196	1281	408	507	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Marco Rubio	REP	0	65070	97
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	Donald J. Trump	REP	0	65072	292
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100001	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	45
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	44	44	1786	945	325	516	President of the United States	 	100002	UnderVotes	 	0	902	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Ted Cruz	REP	0	65063	245
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	John R. Kasich	REP	0	65068	60
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Marco Rubio	REP	0	65070	229
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	Donald J. Trump	REP	0	65072	414
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	164
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	111
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	45	45	4382	2278	967	1137	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Ted Cruz	REP	0	65063	324
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	John R. Kasich	REP	0	65068	159
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Marco Rubio	REP	0	65070	455
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	Donald J. Trump	REP	0	65072	610
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	125
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	46	46	4297	2854	554	889	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Ted Cruz	REP	0	65063	61
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Marco Rubio	REP	0	65070	80
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	Donald J. Trump	REP	0	65072	161
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	63
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	43
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	47	47	1927	944	393	590	President of the United States	 	100002	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Ted Cruz	REP	0	65063	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Marco Rubio	REP	0	65070	16
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	Donald J. Trump	REP	0	65072	15
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	9
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	48	48	134	90	34	10	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Ted Cruz	REP	0	65063	157
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	John R. Kasich	REP	0	65068	98
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Marco Rubio	REP	0	65070	276
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	Donald J. Trump	REP	0	65072	606
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	74
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	49	49	3021	2042	395	584	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Ted Cruz	REP	0	65063	161
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	John R. Kasich	REP	0	65068	102
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Marco Rubio	REP	0	65070	234
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	Donald J. Trump	REP	0	65072	646
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	OverVotes	 	0	901	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100001	UnderVotes	 	0	902	6
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	108
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	60
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	50	50	3068	2076	379	613	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Ted Cruz	REP	0	65063	151
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	Donald J. Trump	REP	0	65072	330
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	51
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	51	51	1722	1082	274	366	President of the United States	 	100002	UnderVotes	 	0	902	3
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Ted Cruz	REP	0	65063	264
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	John R. Kasich	REP	0	65068	60
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Marco Rubio	REP	0	65070	197
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	Donald J. Trump	REP	0	65072	419
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100001	UnderVotes	 	0	902	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	120
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100002	OverVotes	 	0	901	0
+OKA	Okaloosa	10448	03/15/2016	2016 Presidential Preference Primary	52	52	3438	1972	681	785	President of the United States	 	100002	UnderVotes	 	0	902	10

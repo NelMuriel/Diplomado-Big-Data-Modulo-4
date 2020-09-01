@@ -1,0 +1,160 @@
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	94
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	17
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	1	ROCK BLUFF 01	350	13	313	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	13
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	8
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	2	ANNEX, LAKE MYSTIC 02	281	33	216	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	23
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	29
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	43
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	30
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	3	BRISTOL 03	1019	160	777	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	36
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	35
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	43
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	33
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	4	ANNEX, LAKE MYSTIC 02	1003	184	746	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	32
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	5	HOSFORD 05	646	127	466	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	7
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	28
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	6	TELOGIA 06	704	96	551	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	4
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	5
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	7	SUMATRA 07	168	25	134	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	10
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	1
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	17
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	27
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	13
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LIB	Liberty	10448	03/15/2016	2016 Presidential Preference Primary	8	ORANGE 08	247	50	173	0	President of the United States	 	100002	UnderVotes	 	0	902	0

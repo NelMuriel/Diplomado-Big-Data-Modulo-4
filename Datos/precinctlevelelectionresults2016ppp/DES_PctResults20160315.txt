@@ -1,0 +1,126 @@
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	251
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	01	1 SOUTH COUNTY FIRE	1345	805	540	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	35
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	181
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	02	2 OWENS COMMUNITY SCHOOL	1305	603	702	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	10
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	03	3 PINE LEVEL	57	31	26	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	05	5 HOUSE OF GOD	241	10	231	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	05	5 HOUSE OF GOD	241	10	231	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	05	5 HOUSE OF GOD	241	10	231	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	05	5 HOUSE OF GOD	241	10	231	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	86
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	06	6 HOUSE OF GOD	352	21	331	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	40
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	184
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	123
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	111
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	07	7 FAMILY SERVICE CENTER	1568	603	965	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	18
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	75
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	15
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	08	8 OAK HILL	391	189	202	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	10
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	16
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	72
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	18
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	09	9 BROWNVILLE	398	184	214	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	63
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	181
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	145
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	29
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	141
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	10	10 RODEO	1939	685	1254	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	11	11 TRINITY	197	6	191	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	43
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	11	11 TRINITY	197	6	191	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	108
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	65
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	13	13 NOCATEE METHODIST	963	385	578	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	53
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	38
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	50
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	14	14 FT OGDEN METHODIST	873	484	389	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	40
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	18
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	31
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	62
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	15	15 1ST BAPTIST	628	143	485	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	16
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	47
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	16	16 MCSWAIN	523	160	363	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	27
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	70
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	147
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	93
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+DES	Desoto	10448	03/15/2016	2016 Presidential Preference Primary	17	17 1ST BAPTIST	1051	465	586	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74

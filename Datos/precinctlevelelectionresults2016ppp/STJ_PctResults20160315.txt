@@ -1,0 +1,920 @@
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	255
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	96
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	453
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	653
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	218
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	164
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	101	PCT 101	3796	2785	1011	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	194
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	80
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	280
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	381
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	123
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	99
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	102	PCT 102	2433	1837	596	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	186
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	83
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	287
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	409
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	145
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	91
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	103	PCT 103	2236	1687	549	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	288
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	114
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	445
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	584
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	215
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	105
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	104	PCT 104	3177	2469	708	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	290
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	113
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	433
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	618
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	262
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	155
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	105	PCT 105	3872	2763	1109	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	357
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	82
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	468
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	831
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	171
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	106	PCT 106	3537	2827	710	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	368
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	109
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	498
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	758
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	217
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	159
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	107	PCT 107	4142	3154	988	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	117
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	50
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	206
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	338
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	90
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	55
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	108	PCT 108	1563	1173	390	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	146
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	40
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	129
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	311
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	36
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	109	PCT 109	1263	1061	202	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	66
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	222
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	110	PCT 110	667	541	126	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	222
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	73
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	368
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	582
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	199
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	201	PCT 201	3272	2379	893	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	213
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	73
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	327
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	435
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	128
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	202	PCT 202	2298	1803	495	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	222
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	82
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	367
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	733
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	219
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	171
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	203	PCT 203	3425	2473	952	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	178
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	188
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	474
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	96
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	204	PCT 204	2156	1638	518	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	242
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	61
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	299
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	646
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	214
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	149
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	205	PCT 205	3540	2460	1080	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	48
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	168
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	57
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	206	PCT 206	931	597	334	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	171
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	539
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	169
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100002	OverVotes	 	0	901	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	207	PCT 207	2891	793	2098	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	72
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	101
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	249
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	99
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	208	PCT 208	1205	755	450	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	112
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	96
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	337
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	260
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	209	PCT 209	2461	1199	1262	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	64
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	211
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	62
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	301	PCT 301	1076	698	378	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	219
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	71
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	326
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	787
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	228
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	200
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	302	PCT 302	3413	2341	1072	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	108
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	285
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	117
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	124
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	303	PCT 303	1389	846	543	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	201
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	68
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	259
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	622
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	270
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	276
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	304	PCT 304	3523	2157	1366	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	242
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	97
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	336
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	852
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	405
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	342
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	305	PCT 305	4099	2539	1560	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	195
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	411
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	181
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	88
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	306	PCT 306	1777	1179	598	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	203
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	87
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	315
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	709
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	285
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	193
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	307	PCT 307	3231	2163	1068	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	104
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	98
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	235
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	412
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	191
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	134
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	308	PCT 308	1760	1186	574	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	205
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	157
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	426
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	899
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	495
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	316
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	309	PCT 309	4106	2574	1532	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	208
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	185
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	588
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	812
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	254
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	173
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	401	PCT 401	4293	3230	1063	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	270
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	295
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	814
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1187
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	394
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	209
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	402	PCT 402	5329	4085	1244	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	22
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	278
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	284
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	679
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1014
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	239
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	127
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	403	PCT 403	4396	3554	842	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	111
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	178
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	406
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	495
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	126
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	404	PCT 404	2367	1977	390	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	121
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	89
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	318
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	364
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	405	PCT 405	1987	1564	423	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Ben Carson	REP	0	65060	19
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	385
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	171
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	804
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1068
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	473
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	280
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	406	PCT 406	5522	4040	1482	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	119
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	36
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	26
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	407	PCT 407	659	533	126	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	274
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	115
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	431
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	931
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	OverVotes	 	0	901	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	260
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	197
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	408	PCT 408	4096	3023	1073	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	10
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	43
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	14
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	13
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	409	PCT 409	226	130	96	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	185
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	89
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	301
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	581
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	218
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	501	PCT 501	2439	1802	637	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Ben Carson	REP	0	65060	18
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	185
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	51
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	307
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	615
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	276
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	293
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	502	PCT 502	3668	2245	1423	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	39
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	37
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	84
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	179
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	142
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	503	PCT 503	1068	578	490	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	169
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	121
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	348
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	655
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	247
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	196
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	504	PCT 504	2958	2072	886	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	46
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	179
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	416
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	266
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	223
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	505	PCT 505	2556	1345	1211	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	53
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	44
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	108
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	158
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	OverVotes	 	0	901	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	164
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	191
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	506	PCT 506	1255	616	639	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	89
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	239
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	246
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	507	PCT 507	1401	424	977	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	165
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	141
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	335
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	635
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	376
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	367
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	508	PCT 508	3497	2098	1399	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	192
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	168
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	440
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	725
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	418
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	339
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100002	OverVotes	 	0	901	0
+STJ	St. Johns	10448	03/15/2016	2016 Presidential Preference Primary	509	PCT 509	3935	2529	1406	0	President of the United States	 	100002	UnderVotes	 	0	902	0

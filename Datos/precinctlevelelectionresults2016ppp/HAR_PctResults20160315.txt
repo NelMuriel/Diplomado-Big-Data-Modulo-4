@@ -1,0 +1,240 @@
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	9
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	57
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	14
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	23
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	01	Fort Green Baptist Church	320	187	133	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	70
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	98
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	02	Bowling Green Faith Assembly of God	771	298	473	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	36
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	57
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	23
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	03	Bowling Green Council Cambers	529	258	271	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	95
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	32
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	04	First United Methodist Church of Wauchula	729	384	345	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	23
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	68
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	05	Ona Baptist Church	489	272	217	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	44
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	06	Courthouse Annex	585	297	288	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	82
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	222
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	73
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	07	Zolfo Springs Civic Center	1666	895	771	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	84
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	7
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	08	First Missionary Baptist Church	376	47	329	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	80
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	214
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	42
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	09	New Hope Baptist Church	1518	813	705	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	64
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	10	Wauchula Old City Hall	741	333	408	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	23
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	21
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	59
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	27
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECO Park	632	272	360	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	68
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	40
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAR	Hardee	10448	03/15/2016	2016 Presidential Preference Primary	12	Civic Center	1124	671	453	0	President of the United States	 	100002	UnderVotes	 	0	902	0

@@ -1,0 +1,660 @@
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	Donald J. Trump	REP	0	65072	110
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	146
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	103
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	01	Jaycee Clubhouse	1263	389	483	391	President of the United States	 	100002	UnderVotes	 	0	902	9
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	Donald J. Trump	REP	0	65072	144
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	231
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	167
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	02	Key West High School Auditorium	1666	459	666	541	President of the United States	 	100002	UnderVotes	 	0	902	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Ted Cruz	REP	0	65063	20
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Marco Rubio	REP	0	65070	57
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	Donald J. Trump	REP	0	65072	99
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100001	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	213
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	144
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	03	Key West High School Auditorium	1320	325	586	409	President of the United States	 	100002	UnderVotes	 	0	902	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Ted Cruz	REP	0	65063	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	Donald J. Trump	REP	0	65072	21
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	218
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	04	Martin Luther King Pool	1026	96	631	299	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Carly Fiorina	REP	0	65064	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	John R. Kasich	REP	0	65068	51
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	Donald J. Trump	REP	0	65072	181
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	324
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	256
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	05	Old City Hall	2857	852	1031	974	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Marco Rubio	REP	0	65070	42
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	Donald J. Trump	REP	0	65072	67
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	269
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	160
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	06	Gato Building	1387	250	694	443	President of the United States	 	100002	UnderVotes	 	0	902	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Marco Rubio	REP	0	65070	39
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	Donald J. Trump	REP	0	65072	79
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	142
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	118
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	07	Moose Club	1097	243	436	418	President of the United States	 	100002	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	John R. Kasich	REP	0	65068	19
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Marco Rubio	REP	0	65070	44
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	Donald J. Trump	REP	0	65072	100
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100001	UnderVotes	 	0	902	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	271
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	209
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	08	Glad Tiding Tabernacle	1750	347	813	590	President of the United States	 	100002	UnderVotes	 	0	902	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Marco Rubio	REP	0	65070	92
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	Donald J. Trump	REP	0	65072	136
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	222
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	186
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	09	Sr Citizen Plaza Auditorium	1892	495	762	635	President of the United States	 	100002	UnderVotes	 	0	902	9
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Ted Cruz	REP	0	65063	12
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Marco Rubio	REP	0	65070	38
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	Donald J. Trump	REP	0	65072	99
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	241
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	154
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	10	Church of Latter Day Saints	1753	343	821	589	President of the United States	 	100002	UnderVotes	 	0	902	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Marco Rubio	REP	0	65070	97
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	Donald J. Trump	REP	0	65072	200
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100001	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	255
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	150
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	11	Stock Island Fire Station	2690	752	1007	931	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Marco Rubio	REP	0	65070	85
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	Donald J. Trump	REP	0	65072	200
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	122
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	12	Big Coppitt Fire Station	2062	702	625	735	President of the United States	 	100002	UnderVotes	 	0	902	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	Donald J. Trump	REP	0	65072	177
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	172
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	13	Sugarloaf Fire Station	1634	579	530	525	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	John R. Kasich	REP	0	65068	37
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Marco Rubio	REP	0	65070	91
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	Donald J. Trump	REP	0	65072	248
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	109
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	14	Cudjoe Sheriff Sub-Station	1627	711	402	514	President of the United States	 	100002	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Ted Cruz	REP	0	65063	67
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Marco Rubio	REP	0	65070	143
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	Donald J. Trump	REP	0	65072	331
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	149
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	136
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	15	BSA Florida Sea Base	2303	1019	576	708	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Ted Cruz	REP	0	65063	59
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Marco Rubio	REP	0	65070	96
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	Donald J. Trump	REP	0	65072	259
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	101
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	16	First Baptist Church	1865	761	501	603	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	Donald J. Trump	REP	0	65072	175
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	114
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	17	Big Pine Key Comm Park	1618	582	484	552	President of the United States	 	100002	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Ted Cruz	REP	0	65063	27
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Marco Rubio	REP	0	65070	40
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	Donald J. Trump	REP	0	65072	122
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	80
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	18	American Legion Marathon	1123	399	331	393	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	John R. Kasich	REP	0	65068	47
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Marco Rubio	REP	0	65070	106
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	Donald J. Trump	REP	0	65072	286
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	109
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	19	First Baptist Church Marathon	1890	835	479	576	President of the United States	 	100002	UnderVotes	 	0	902	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Marco Rubio	REP	0	65070	71
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	Donald J. Trump	REP	0	65072	178
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	61
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	20	Presbyterian Kirk of the Keys	1218	541	311	366	President of the United States	 	100002	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Marco Rubio	REP	0	65070	79
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	Donald J. Trump	REP	0	65072	175
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100001	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	63
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	56
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	21	Marathon Moose Lodge	1155	553	283	319	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Marco Rubio	REP	0	65070	68
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	Donald J. Trump	REP	0	65072	167
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	26
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	22	Key Colony Beach City Hall	788	466	136	186	President of the United States	 	100002	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Marco Rubio	REP	0	65070	66
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	Donald J. Trump	REP	0	65072	207
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	86
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	23	Marathon Moose Lodge	1294	621	323	350	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	John R. Kasich	REP	0	65068	33
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Marco Rubio	REP	0	65070	117
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	Donald J. Trump	REP	0	65072	275
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	86
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	24	Islamorada Branch Library	1595	820	359	416	President of the United States	 	100002	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Ted Cruz	REP	0	65063	48
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Marco Rubio	REP	0	65070	96
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	Donald J. Trump	REP	0	65072	265
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	107
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	25	PK Courtroom B	1540	755	375	410	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	John R. Kasich	REP	0	65068	50
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	Donald J. Trump	REP	0	65072	291
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100001	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	134
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	106
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	26	Immanuel Lutheran Church	1987	959	509	519	President of the United States	 	100002	UnderVotes	 	0	902	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Marco Rubio	REP	0	65070	103
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	Donald J. Trump	REP	0	65072	192
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	97
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	27	Elks Club, Tavernier	1489	640	449	400	President of the United States	 	100002	UnderVotes	 	0	902	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Marco Rubio	REP	0	65070	87
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	Donald J. Trump	REP	0	65072	185
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	126
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	92
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	28	Key Largo Civic Club	1429	645	385	399	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Ted Cruz	REP	0	65063	56
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	John R. Kasich	REP	0	65068	40
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Marco Rubio	REP	0	65070	168
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	Donald J. Trump	REP	0	65072	292
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100001	UnderVotes	 	0	902	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	158
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	160
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	29	Key Largo Civic Club	2350	1025	669	656	President of the United States	 	100002	UnderVotes	 	0	902	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Ted Cruz	REP	0	65063	20
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Marco Rubio	REP	0	65070	74
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	Donald J. Trump	REP	0	65072	138
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100001	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	95
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	91
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	30	Monroe County Library, KL	1355	476	484	395	President of the United States	 	100002	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	John R. Kasich	REP	0	65068	19
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Marco Rubio	REP	0	65070	56
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	Donald J. Trump	REP	0	65072	170
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	77
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	31	Monroe County Library, KL	1253	488	395	370	President of the United States	 	100002	UnderVotes	 	0	902	4
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	Donald J. Trump	REP	0	65072	247
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100001	UnderVotes	 	0	902	2
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	139
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	118
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	32	Key Largo Baptist Church	1869	779	538	552	President of the United States	 	100002	UnderVotes	 	0	902	8
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	John R. Kasich	REP	0	65068	127
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Marco Rubio	REP	0	65070	182
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	Donald J. Trump	REP	0	65072	257
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100001	UnderVotes	 	0	902	1
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	77
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	30
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100002	OverVotes	 	0	901	0
+MON	Monroe	10448	03/15/2016	2016 Presidential Preference Primary	33	The Academy at Ocean Reef	1205	856	152	197	President of the United States	 	100002	UnderVotes	 	0	902	2

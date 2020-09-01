@@ -1,0 +1,180 @@
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	98
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	76
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	238
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	190
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	123
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK001	Sanderson Community Center	2067	752	1315	0	President of the United States	 	100002	UnderVotes	 	0	902	18
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Ben Carson	REP	0	65060	16
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	156
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	153
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	411
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	143
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	57
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	143
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK002	Macclenny Baptist Gym	2412	1209	1203	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	223
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	188
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	472
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	60
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	167
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK003	Center of the Agriculture	2661	1502	1159	0	President of the United States	 	100002	UnderVotes	 	0	902	18
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	17
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	7
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	26
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	4
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	23
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK004	Baxter Fire Station	172	83	89	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	89
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100002	OverVotes	 	0	901	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK005	Taylor Voting House	482	264	218	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	145
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	136
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	320
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	83
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK006	Center of the Agriculture	1445	934	511	0	President of the United States	 	100002	UnderVotes	 	0	902	13
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	70
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	161
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	28
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK007	Cuyler Church Hall	802	444	358	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	207
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	149
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	411
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	40
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	151
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK008	Glen Baptist Hall	2254	1300	954	0	President of the United States	 	100002	UnderVotes	 	0	902	24
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	9
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	35
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	27
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BAK	Baker	10448	03/15/2016	2016 Presidential Preference Primary	BAK009	Olustee Baptist Hall	218	97	121	0	President of the United States	 	100002	UnderVotes	 	0	902	0

@@ -1,0 +1,419 @@
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	123
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	433
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	130
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	100	100 - Red Level	1878	1178	700	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	127
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	482
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	168
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	133
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	101	101 - Citronelle	2197	1308	889	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	37
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	117
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	79
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	102	102 - Dunnellon	697	349	348	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	76
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	250
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	125
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	101
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	104	104 - NW Crystal River	1500	826	674	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Ted Cruz	REP	0	65063	75
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Marco Rubio	REP	0	65070	106
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	Donald J. Trump	REP	0	65072	337
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	171
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	105	105 - City of Crystal River	2221	954	737	530	President of the United States	 	100002	UnderVotes	 	0	902	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	124
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	69
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	135
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	379
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100001	OverVotes	 	0	901	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	201
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	134
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	107	107 - E Crystal River	1910	1142	768	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	149
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	104
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	211
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	607
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	223
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	141
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	108	108 - E Pine Ridge	2287	1537	750	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	200
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	73
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	227
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	646
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	221
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	127
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	109	109 - W Pine Ridge	2366	1644	722	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	28
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	294
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	72
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	249
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	882
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	365
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	297
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	110	110 - Citrus Springs	4688	2764	1924	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	128
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	43
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	86
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	416
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	175
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	125
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100002	OverVotes	 	0	901	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	200	200 - Holder	2056	1164	892	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	22
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	146
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	46
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	171
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	457
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	221
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	149
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	201	201 - N Hernando	2263	1333	930	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	30
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	340
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	153
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	407
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1068
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	OverVotes	 	0	901	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	449
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	233
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	202	202 - N Citrus Hills	4211	2861	1350	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	149
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	417
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	233
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	145
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	203	203 - Forest Ridge	1936	1086	850	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	153
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	80
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	225
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	564
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	227
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	109
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	204	204 - N Lecanto	2180	1467	713	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	48
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	209
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	123
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	205	205 - Central Beverly Hills	1273	639	634	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	62
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	192
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	150
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	206	206 - W Beverly Hills	1468	705	763	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	33
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	89
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	268
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	121
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	208	208 - N Citrus Hills	1136	727	409	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	105
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	300
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100001	OverVotes	 	0	901	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	108
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	109
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	300	300 - S Lecanto	1690	964	726	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Ben Carson	REP	0	65060	20
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	241
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	76
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	282
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	938
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	324
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	37
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	293
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	301	301 - S Crystal River	4467	2643	1824	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	203
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	67
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	215
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	768
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	310
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	39
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	220
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	302	302 - N Homosassa Springs	3719	2175	1544	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	187
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	138
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	573
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	292
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	239
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	305	305 - S Homosassa Springs	3315	1721	1594	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	47
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Ben Carson	REP	0	65060	23
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	399
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	249
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	564
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1398
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	640
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	354
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	307	307 - Sugarmill Woods	5874	3876	1998	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	136
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	85
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	301
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	400	400 - Pleasant Grove	1550	947	603	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	40
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	172
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	57
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	401	401 - E Inverness	785	459	326	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	80
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	295
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	149
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	135
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	402	402 - N Inverness 	1997	1079	918	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	20
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Ben Carson	REP	0	65060	20
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Chris Christie	REP	0	65062	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	237
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	71
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	205
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	477
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	372
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	250
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	403	403 - City of Inverness	3523	1863	1660	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Ben Carson	REP	0	65060	16
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	137
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	44
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	154
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	450
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	167
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	146
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	404	404 - Gospel Island	2021	1255	766	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	35
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Ben Carson	REP	0	65060	16
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	314
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	102
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	307
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	824
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	450
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	41
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	286
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	405	405 - S Inverness	4560	2675	1885	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	169
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	361
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	172
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	128
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	406	406 - W Inverness	1924	1156	768	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	92
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	40
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	92
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	321
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	116
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	407	407 - N Floral City	1741	963	778	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	176
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	36
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	343
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	176
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	30
+CIT	Citrus	10448	03/15/2016	2016 Presidential Preference Primary	408	408 - S Floral City	2038	1199	839	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120

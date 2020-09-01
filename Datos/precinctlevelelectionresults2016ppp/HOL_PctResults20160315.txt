@@ -1,0 +1,160 @@
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	137
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	1		992	494	498	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	102
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	129
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	2		1017	491	526	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	31
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	109
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	32
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	3		861	384	477	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	109
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	209
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	88
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	4		1336	691	645	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	21
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	58
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	11
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	5		476	222	254	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	192
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	94
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	265
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	51
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	59
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	118
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	6		2030	1052	978	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	161
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	82
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	201
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	67
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	47
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	7		1752	867	885	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	82
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	72
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	131
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	73
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HOL	Holmes	10448	03/15/2016	2016 Presidential Preference Primary	8		1130	543	587	0	President of the United States	 	100002	UnderVotes	 	0	902	9

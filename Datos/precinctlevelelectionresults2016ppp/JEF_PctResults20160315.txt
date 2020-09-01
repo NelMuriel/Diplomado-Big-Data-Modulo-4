@@ -1,0 +1,135 @@
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	39
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	48
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	50
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	01	1 New Bethel A.M.E.	524	182	342	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	58
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	28
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	02	2 St. Margaret's Cath Ch C2	343	140	203	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	39
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	30
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	03	3 Aucilla Cent. Bapt.	288	71	217	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	15
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	117
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	04	4 Ch. of the Nazarene C2	719	265	454	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	61
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	294
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	52
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	34
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	9
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	05	5 Opera House 	1013	166	847	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	41
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	139
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	17
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	06	6 Masonic Lodge 	558	121	437	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	36
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	125
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	68
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	07	7 Macedonia FW Bapt Ch C2	641	156	485	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	38
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	147
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	08	8 JCHS Auditorium 	592	163	429	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	43
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	36
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	09	9 School Board Office 	706	267	439	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	77
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	130
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100002	OverVotes	 	0	901	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	18
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Lloyd Baptist Ch C4	639	223	416	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	55
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	128
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	61
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Waukeenah Meth Ch C2	711	252	459	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	120
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Wacissa VFD C2	655	180	475	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	56
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	16
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	11
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	11
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	13	13 Ebenezer Bapt Ch C4	148	60	88	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	18
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	72
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	21
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	9
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	14	14 Mt Morilla C4	286	44	242	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	12
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	67
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	28
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	60
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+JEF	Jefferson	10448	03/15/2016	2016 Presidential Preference Primary	15	15 Lloyd Woman's Club C2	576	291	285	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	83

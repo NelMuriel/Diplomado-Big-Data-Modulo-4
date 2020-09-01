@@ -1,0 +1,160 @@
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	10
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	28
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	50
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	36
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	1		551	147	404	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	43
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	239
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	55
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	2		1253	185	1068	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	53
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	78
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	3		840	205	635	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	53
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	143
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	87
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	33
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	104
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	4		1412	465	947	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	34
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	17
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	5		232	87	145	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	62
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	6		680	191	489	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	49
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	112
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	7		718	246	472	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	76
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	37
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	169
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	53
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	79
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HAM	Hamilton	10448	03/15/2016	2016 Presidential Preference Primary	8		1186	545	641	0	President of the United States	 	100002	UnderVotes	 	0	902	11

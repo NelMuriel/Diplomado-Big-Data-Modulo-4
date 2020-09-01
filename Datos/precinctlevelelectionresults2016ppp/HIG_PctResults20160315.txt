@@ -1,0 +1,500 @@
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	102
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	98
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	162
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	107
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	1	Precinct	1401	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	81
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	177
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	320
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	2	Precinct	2289	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	132
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	107
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	217
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	88
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	3	Precinct	1363	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	160
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	68
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	222
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	434
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	290
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	141
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	4	Precinct	3032	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	200
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	239
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	501
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	287
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	191
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	5	Precinct	3375	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	12
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	98
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	45
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	114
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	290
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	112
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	49
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	6	Precinct	1395	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	27
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	62
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	7	Precinct	873	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	70
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	134
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	8	Precinct	1251	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	38
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	9	Precinct	238	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	87
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	122
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	226
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	78
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	10	Precinct  10 0010	1258	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	63
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	215
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	112
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	56
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	11	Precinct  11 0011	1316	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	50
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	50
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	177
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	38
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	39
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	12	Precinct  12 0012	821	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	274
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	47
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	240
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	607
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	219
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	142
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	13	Precinct  13 0013	3237	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	17
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	73
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	16
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	14	Precinct  14 0014	289	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	30
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	354
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	91
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	391
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	771
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	296
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	189
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	15	Precinct  15 0015	4340	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	14
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	180
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	165
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	347
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	288
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	127
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	16	Precinct  16 0016	3056	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	28
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	319
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	86
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	305
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	960
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	269
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	209
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	17	Precinct  17 0017	4412	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	7
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	12
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	27
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	18
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	18	Precinct  18 0018	211	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	161
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	51
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	157
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	425
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	201
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	19	Precinct  19 0019	2610	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	85
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	92
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	274
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	120
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	20	Precinct  20 0020	1425	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	204
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	124
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	452
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	109
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	94
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	21	Precinct  21 0021	2172	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	104
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	65
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	84
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	22	Precinct  22 0022	809	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	42
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	110
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	23
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	23	Precinct  23 0023	632	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	101
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	55
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	143
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	305
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	163
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	24	Precinct  24 0024	1601	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	166
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	69
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	205
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	466
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	288
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	129
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HIG	Highlands	10448	03/15/2016	2016 Presidential Preference Primary	25	Precinct  25 0025	2861	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6

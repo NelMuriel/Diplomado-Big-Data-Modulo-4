@@ -1,0 +1,740 @@
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	75
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	78
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	63
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	197
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	01	ISTACHATTA COMMUNITY CENTER	1066	668	398	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	83
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	80
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	265
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	02	EDEN BAPTIST CH FELLOWSHIP HL	1397	867	530	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	380
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	220
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	43
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Ben Carson	REP	0	65060	18
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	198
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	65
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	234
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	502
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	04	JEROME BROWN COMMUNITY CENTER	3695	1833	1862	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	249
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	161
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	260
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	48
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	178
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	491
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	06	FAITH EVANL PRESB. CHURCH	3051	1854	1197	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	185
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	189
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	29
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	165
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	128
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	346
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	08	RIDGE MANOR COMMUNITY CENTER	2676	1455	1221	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	110
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	114
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	181
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	366
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	09	SPRING LAKE UNITED METHODIST	1714	1147	567	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	329
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	183
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	23
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	210
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	50
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	204
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	406
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	OverVotes	 	0	901	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	10	GRACE WORLD OUTREACH CHURCH	3195	1733	1462	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	186
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	117
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	319
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	12	DEERFIELD CLUBHOUSE	1958	1109	849	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	88
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	82
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	51
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	50
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	220
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	13	THE HEATHER COMMUNITY CENTER	1068	599	469	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	409
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	264
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100002	OverVotes	 	0	901	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	20
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	282
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	64
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Rand Paul	REP	0	65069	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	262
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	807
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	14	BROOKSVILLE ELKS LODGE #2582	4838	2668	2170	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	259
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	229
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	118
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	114
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	462
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	15	HOLY CROSS LUTHERAN CHURCH	3352	1581	1771	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	248
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	107
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	204
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	548
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	17	THE HEATHER COMMUNITY CENTER	2349	1536	813	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	175
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	62
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	74
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	258
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	18	HIGH POINT COMM. CLUB HOUSE	1318	688	630	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	417
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	37
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	287
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	211
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	75
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	227
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	847
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	19	GRACE PRESBYTERIAN CHURCH	4930	2593	2337	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	244
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	150
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	97
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	325
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	21	FELLOWSHIP COMMUNITY CHURCH	2360	1126	1234	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	287
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	184
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	31
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	99
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	442
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	23	FOREST OAKS LUTHERAN CHURCH	2994	1418	1576	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	420
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	321
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100002	OverVotes	 	0	901	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100002	UnderVotes	 	0	902	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	37
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Ben Carson	REP	0	65060	22
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	300
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	240
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1012
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	OverVotes	 	0	901	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	24	CHRISTIAN CHURCH IN THE WILDWOOD	5660	3270	2390	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	345
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	193
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	118
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	47
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	135
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	419
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	25	BROOKRIDGE CLUBHOUSE MIDDLE RM	2539	1276	1263	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	383
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	207
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100002	OverVotes	 	0	901	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100002	UnderVotes	 	0	902	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	22
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	189
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	39
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	203
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	512
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	27	ST JOAN OF ARC CATHOLIC CHURCH	3774	1935	1839	0	President of the United States	 	100001	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	267
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	162
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	86
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	99
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	317
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	29	DAYSPRING PRESBYTERIAN CHURCH	2687	1216	1471	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	141
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	91
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	113
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	37
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	99
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	471
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	30	COAST GUARD AUXILIARY BLDG	1738	1138	600	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	235
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	134
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	129
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	59
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	154
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	536
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	31	TRUE HOLINESS CHURCH OF JESUS CHRIS	2826	1653	1173	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	97
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	222
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	33	SPRING HILL CHURCH OF CHRIST	1195	636	559	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	396
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	240
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100002	UnderVotes	 	0	902	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	20
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	130
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	500
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	34	NORTHCLIFFE BAPTIST CHURCH (HALL)	3703	1687	2016	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	219
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	23
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	63
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	65
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	89
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	317
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	35	TIMBER PINES PERF. ARTS CTR	1220	779	441	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	131
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	79
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	230
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	OverVotes	 	0	901	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	36	HILLSIDE COMMUNITY BAPTIST CHURCH	1510	767	743	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	68
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	82
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	219
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	37	HILLSIDE COMMUNITY BAPTIST CHURCH	1293	746	547	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	301
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	157
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	132
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	465
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	38	REGENCY OAKS CLUB HOUSE	2473	1350	1123	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	163
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	45
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	202
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	39	SH CAL. CHURCH OF THE NAZARENE	1664	764	900	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	440
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	247
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	139
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	42
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	161
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	482
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	40	SH UNITED CHURCH OF CHRIST- HALL	4082	1912	2170	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	187
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	122
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	24
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	115
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	105
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	382
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	42	FAMILY FIRST ASSEMBLY	2087	1221	866	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	451
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	246
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100002	UnderVotes	 	0	902	12
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	30
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	202
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	48
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	203
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	681
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	44	STERLING HILL CLUBHOUSE (NORTH)	4331	2288	2043	0	President of the United States	 	100001	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	109
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	88
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	56
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	53
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	292
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	46	FAITH EVANGELICAL FREE CHURCH	1542	781	761	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	239
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	82
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	38
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	143
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	146
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	255
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	540
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	47	TIMBER PINES PERF. ARTS CTR	2235	1566	669	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	273
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	182
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	110
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	45
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	133
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	441
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	48	YMCA OF THE SUNCOAST	2778	1423	1355	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	62
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	48
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	39
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	120
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	53	HIGH POINT COMM. CLUB HOUSE	815	463	352	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	247
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	77
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100002	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	86
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	43
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	113
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	374
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	OverVotes	 	0	901	0
+HER	Hernando	10448	03/15/2016	2016 Presidential Preference Primary	54	WELLINGTON CLUBHOUSE	1425	854	571	0	President of the United States	 	100001	UnderVotes	 	0	902	0

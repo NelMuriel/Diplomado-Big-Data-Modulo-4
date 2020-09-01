@@ -1,0 +1,100 @@
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	36
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	70
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	31
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	1		786	278	508	0	President of the United States	 	100002	UnderVotes	 	0	902	12
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	54
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	32
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	2		651	212	439	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	51
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	37
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	109
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	45
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	35
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	3		941	351	590	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	63
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	138
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	36
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	92
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	4		999	394	605	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	11
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	10
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	31
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	54
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100002	OverVotes	 	0	901	0
+LAF	Lafayette	10448	03/15/2016	2016 Presidential Preference Primary	5		648	140	508	0	President of the United States	 	100002	UnderVotes	 	0	902	8

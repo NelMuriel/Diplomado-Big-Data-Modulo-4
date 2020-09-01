@@ -1,0 +1,160 @@
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	103
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	56
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	105
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	1A & 1B	1A & 1B	1040	408	632	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	82
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	45
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	2A & 2B	2A & 2B	916	324	592	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	88
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	48
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	186
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	73
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100002	OverVotes	 	0	901	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3A & 3B	3A & 3B	1406	628	778	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	14
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	31
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	14
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	3C	3C	291	118	173	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	69
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	34
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4A & 4C	4A & 4C	619	239	380	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	112
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	53
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	4B	4B	1181	588	593	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	16
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	10
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	49
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	40
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5A & 5C	5A & 5C	510	166	344	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	39
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100002	OverVotes	 	0	901	0
+UNI	Union	10448	03/15/2016	2016 Presidential Preference Primary	5B	5B	299	135	164	0	President of the United States	 	100002	UnderVotes	 	0	902	0

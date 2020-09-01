@@ -1,0 +1,248 @@
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	36
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	67
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	101	101 Deep Creek Com Center	499	202	297	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	52
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	163
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	170
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	69
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Winfield Com Center	1591	644	947	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	85
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	143
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	103	103 Lake City Church of God	1189	352	837	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	19
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	254
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	32
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Richardson Comm Center	1298	156	1142	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	13
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	112	112 Supv Elections Office	517	51	466	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	9
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	20
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	113	113 Supv Elections Office	69	44	25	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	20
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	29
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	114	114 Richardson Comm Center	279	116	163	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	94
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	59
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	172
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	75
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Christ Central Ministries	1237	686	551	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	259
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	202	202 Christ Central Ministries	1498	854	644	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	335
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	39
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	150
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	634
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	234
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	253
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	203	203 Ft White Comm Center	3807	2130	1677	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	253
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	182
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	405
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	135
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Westside Community Center	2462	1500	962	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	38
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	34
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	28
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	302	302 Winfield Comm Center	355	169	186	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	21
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	337
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	37
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	223
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	458
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	170
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	40
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	182
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	303	303  Southside Rec Complex-Coach Bldg	3369	1949	1420	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	43
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	87
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	69
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	27
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	312	312 Supv Elections Office	733	353	380	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	184
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	89
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	234
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	33
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	121
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	401	401 Lake City Church of God	2012	984	1028	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	40
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	11
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	14
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	402	402 Lulu Comm Center	257	144	113	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	135
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	107
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	283
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	91
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	30
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	403	403 Mason City Comm Center	1704	938	766	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	127
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	56
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	223
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	86
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	404	404 Philippi Baptist Church	1336	759	577	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	215
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	123
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	306
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	142
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	501	501  Southside Rec Complex-Coach Bldg	2066	1163	903	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	174
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	284
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	87
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	26
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	125
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	502	502 Our Redeemer Lutheran Church	1957	1157	800	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	70
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	50
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	119
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	513	513 Supv Elections Office	1221	538	683	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	63
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	61
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	108
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	66
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+CLM	Columbia	10448	03/15/2016	2016 Presidential Preference Primary	514	514 Southside Rec Complex-Coach Bldg	808	445	363	0	President of the United States	 	100002	UnderVotes	 	0	902	1

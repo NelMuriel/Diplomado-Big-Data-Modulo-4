@@ -1,0 +1,128 @@
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	171
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	80
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	198
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	224
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	41
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	230
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	01	01 Wakulla	2085	897	1188	0	President of the United States	 	100002	UnderVotes	 	0	902	15
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	324
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	168
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	409
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	440
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	64
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	302
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	02	02 Crawfordville	4020	1849	2171	0	President of the United States	 	100002	UnderVotes	 	0	902	16
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	78
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	80
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	133
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	03	03 Sopchoppy	1068	330	738	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	17
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	27
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	04	04 Smith Creek	150	75	75	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	47
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	26
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	30
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	05	05 St Marks	309	163	146	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	39
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	126
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	121
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	25
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	06	06 Medart	1256	534	722	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	240
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	34
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	83
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	250
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	198
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	61
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	228
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	07	07 Ivan	2459	1142	1317	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	50
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	106
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	106
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	87
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	08	08 Shell Point	786	369	417	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	50
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	09	09 Panacea	440	178	262	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	80
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	40
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	30
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	10	10 Ochlockonee Bay	405	225	180	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	100
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	49
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	125
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	180
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	126
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	11	11 Bethel	1316	522	794	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	148
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	51
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	166
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	154
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	26
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	130
+WAK	Wakulla	10448	03/15/2016	2016 Presidential Preference Primary	12	12 Shadevill	1764	815	949	0	President of the United States	 	100002	UnderVotes	 	0	902	8

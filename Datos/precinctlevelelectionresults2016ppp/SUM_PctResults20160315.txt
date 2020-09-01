@@ -1,0 +1,600 @@
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	114
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	56
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	205
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	473
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	174
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	101	101 SAVANNAH CTR 1	1866	1236	630	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	238
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	153
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	410
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1032
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	OverVotes	 	0	901	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	353
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	168
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	102	102 HOPE LUTH CHURCH 2	3620	2608	1012	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	94
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	45
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	301
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	129
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	103	103 SADDLEBROOK REC 3	1471	1024	447	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	19
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	144
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	119
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	348
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	821
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	279
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	78
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	104	104 PIMLICO REC CTR 4	2635	1925	710	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	20
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	207
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	157
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	539
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1233
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	540
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	168
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	105	105 COCONUT COVE 5	4035	2817	1218	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	192
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	143
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	382
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	919
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	315
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	122
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	106	106 CANAL ST REC CTR 6	2814	2075	739	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	154
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	115
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	345
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	713
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	256
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	107	107 LAUREL MANOR RE 7	2465	1767	698	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	170
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	114
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	388
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	851
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	340
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	114
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	108	108 ALLAMANDA VIL RE 8	2711	1917	794	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	89
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	328
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	696
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	263
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	107
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	109	109 TRUMAN REC CTR 9	2349	1658	691	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	170
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	103
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	397
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	754
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	284
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	114
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	110	110 STERING HEIGHTS 10	2585	1875	710	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	26
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	424
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	281
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	801
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1802
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	559
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	267
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	111	111 CAPTIVA VILLAGE 11	5558	4158	1400	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	140
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	148
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	390
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	124
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	112	112 OXFORD COMM BLD 12	2223	1393	830	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	41
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	112
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	111
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	26
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	113	113 ROYAL COMM BLDG 13	949	401	548	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	121
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	373
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	158
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	115
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	114	114 LAKE PANASOFFKEE 14	2214	1252	962	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	85
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	81
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	194
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	236
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	109
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	115	115 WILDWOOD COMM 15	2220	846	1374	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	56
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	74
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	205
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	124
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	116	116 CONT COUNTRY CLUB 16	1019	623	396	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	54
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	117
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	48
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	117	117 COLEMAN COMM BLD 17	1025	483	542	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	191
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	130
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	350
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	131
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	112
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	118	118 1ST UNITED METH 18	2230	1347	883	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	64
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	38
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	113
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	48
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	119	119 CENTER HILL COMM 19	816	471	345	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	84
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	310
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	149
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	120	120 BUSHNELL COMM 20	1960	1084	876	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	83
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	248
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	121	121 INDIAN HILL BAPT 21	1407	842	565	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	75
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	147
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	51
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	40
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	122	122 CROOM-A-COOCHEE 22	1031	636	395	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	100
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	75
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	159
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	109
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	51
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	123	123 WEBSTER COMM 23	1351	639	712	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	71
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	65
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	46
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	124	124 LINDEN COMM BLD 24	603	359	244	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	33
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	144
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	139
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	351
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	780
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	292
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	118
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	125	125 EL SANTIAGO REC 25	2688	1902	786	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	188
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	174
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	504
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1053
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	369
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	155
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	126	126 SAVANNAH CTR 26	3604	2574	1030	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	177
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	112
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	410
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	819
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	379
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	115
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	127	127 COLONY COTTAGE 27	2854	1987	867	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	219
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	133
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	410
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	945
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	393
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	153
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	128	128 SEABREEZE REC 28	3215	2239	976	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	256
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	152
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	503
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1193
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	395
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	154
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	129	129 EISENHOWER REC 29	3614	2677	937	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	137
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	101
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	258
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	601
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	223
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	82
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SUM	Sumter	10448	03/15/2016	2016 Presidential Preference Primary	130	130 ROHAN REC CTR 30	1813	1340	473	0	President of the United States	 	100002	UnderVotes	 	0	902	1

@@ -1,0 +1,280 @@
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	132
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	216
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	34
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	1		1366	790	576	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	20
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	16
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	43
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	135
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	52
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	2		682	214	468	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	49
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	69
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	15
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	38
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	3		543	277	266	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	139
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	4		1061	529	532	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	103
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	101
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	133
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	OverVotes	 	0	901	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	146
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	103
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100002	OverVotes	 	0	901	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	5		1423	680	743	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	49
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	41
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	123
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	16
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	43
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100002	OverVotes	 	0	901	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	6		662	382	280	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	25
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	53
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	175
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	7		1018	250	768	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	92
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	225
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	88
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	93
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	8		1416	766	650	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	41
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	136
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	99
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	56
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	9		1094	484	610	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	132
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	10		789	495	294	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	121
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	57
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	67
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	11		947	470	477	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	119
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	119
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	279
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	126
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	12		1395	839	556	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	26
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	13		421	235	186	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	81
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	46
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100002	OverVotes	 	0	901	0
+BRA	Bradford	10448	03/15/2016	2016 Presidential Preference Primary	14		568	301	267	0	President of the United States	 	100002	UnderVotes	 	0	902	3

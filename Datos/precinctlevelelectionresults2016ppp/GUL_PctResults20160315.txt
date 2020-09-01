@@ -1,0 +1,180 @@
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	77
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	145
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	1		1672	581	1091	0	President of the United States	 	100002	UnderVotes	 	0	902	13
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	40
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	137
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	70
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	2		1460	630	830	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	71
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	105
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	231
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	107
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	3		1416	786	630	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	85
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	198
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	4		1201	377	824	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	152
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	78
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	203
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	60
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	31
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	123
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	5		1530	819	711	0	President of the United States	 	100002	UnderVotes	 	0	902	12
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	18
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	21
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	6
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	20
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	6		226	81	145	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	116
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	48
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	7		567	406	161	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	6
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	37
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	16
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	8		215	91	124	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	64
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	13
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100002	OverVotes	 	0	901	0
+GUL	Gulf	10448	03/15/2016	2016 Presidential Preference Primary	9		312	197	115	0	President of the United States	 	100002	UnderVotes	 	0	902	2

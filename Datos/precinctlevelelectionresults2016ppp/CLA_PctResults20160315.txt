@@ -1,0 +1,940 @@
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	185
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	483
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	49
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	48
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA100		2205	1746	459	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	165
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	102
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	491
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	59
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA102		2498	1854	644	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	214
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	169
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	554
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	49
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA106		2937	2250	687	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	105
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	145
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	388
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	48
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	57
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA110		1729	1297	432	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	282
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	55
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	257
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	718
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	OverVotes	 	0	901	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	180
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	135
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA112		3720	2600	1120	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	198
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	272
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	486
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	397
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	180
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100002	OverVotes	 	0	901	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA113		4295	2272	2023	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	167
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	194
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	341
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	268
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	138
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA115		3330	1843	1487	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	114
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	164
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	327
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	319
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	150
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA116		3154	1601	1553	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	221
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	53
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	232
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	586
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	159
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	112
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA118		2983	2104	879	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	191
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	228
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	459
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	217
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA122		3032	1888	1144	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	135
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	53
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	231
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	431
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	96
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	52
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA124		1766	1385	381	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	88
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	188
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	98
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA128		1931	990	941	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	116
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	19
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	124
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	357
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	123
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	101
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA202		2656	1569	1087	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	172
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	290
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	OverVotes	 	0	901	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA204		2038	1298	740	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	89
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	82
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	182
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	83
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA206		1265	748	517	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	67
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	41
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	122
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	179
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	58
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	48
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA208		1198	800	398	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	211
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	231
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	421
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	137
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	114
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA210		2390	1648	742	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	26
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	274
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	79
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	374
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	630
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	110
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA216		3145	2381	764	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	193
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	31
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	237
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	475
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA218		2364	1704	660	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	177
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	205
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	542
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	148
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	122
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA302		3218	2137	1081	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	223
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	19
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	148
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	440
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	130
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA304		2702	1834	868	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	129
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	137
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	369
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	130
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	82
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA308		2114	1385	729	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	165
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	212
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	479
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	75
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	47
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA310		2223	1740	483	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	181
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	66
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	274
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	476
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	115
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA400		2158	1719	439	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	195
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	63
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	224
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	335
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA406		1837	1458	379	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	281
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	114
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	412
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	744
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	164
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA408		3295	2704	591	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Ben Carson	REP	0	65060	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	365
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	112
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	467
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	862
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	263
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	182
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA410		5126	3816	1310	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	24
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	259
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	80
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	355
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	647
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	108
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA412		2750	2266	484	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	213
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	47
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	184
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	411
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	102
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA414		2093	1620	473	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	175
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	158
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	405
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	OverVotes	 	0	901	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	85
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	77
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA500		2568	1748	820	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	106
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	85
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	236
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	45
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA503		1087	851	236	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	209
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	177
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	627
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	46
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA504		1966	1683	283	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	90
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	76
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	267
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	18
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	36
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA506		1196	928	268	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	270
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	209
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	638
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	72
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA508		2733	2201	532	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	279
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	36
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	281
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	619
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	148
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA600		3395	2537	858	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	147
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA601		624	467	157	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	26
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	160
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	33
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA602		837	618	219	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	160
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	65
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	209
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	433
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	74
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA604		1609	1328	281	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	30
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	246
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	50
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	261
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	553
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	327
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	179
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA606		4435	2683	1752	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	67
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	55
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	218
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	18
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA610		813	663	150	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	125
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA612		601	441	160	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	97
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	14
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA700		296	239	57	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	231
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	158
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	379
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	91
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA702		2079	1527	552	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	112
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	101
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	248
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	48
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	75
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA704		1345	923	422	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	221
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	146
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	493
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	92
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA706		2504	1789	715	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	123
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	95
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	339
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	53
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	47
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA708		1469	1126	343	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	62
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	125
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	105
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100002	OverVotes	 	0	901	0
+CLA	Clay	10448	03/15/2016	2016 Presidential Preference Primary	CLA710		860	551	309	0	President of the United States	 	100002	UnderVotes	 	0	902	0

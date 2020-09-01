@@ -1,0 +1,600 @@
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	80
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	109
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	182
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	514
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	OverVotes	 	0	901	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	212
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	126
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	01	PRECINCT 1 1	2102	1377	725	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	37
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	181
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	149
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	346
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	813
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	305
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	278
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	02	PRECINCT 2 2	4179	2686	1493	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Ben Carson	REP	0	65060	18
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	148
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	121
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	246
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	600
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	246
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	191
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	03	PRECINCT 3 3	3190	2038	1152	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	63
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	119
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	404
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	160
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	153
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	04	PRECINCT 4 4	2157	1276	881	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	71
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	104
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	281
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	117
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	58
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	05	PRECINCT 5 5	1173	825	348	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	37
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	127
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	162
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	257
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	691
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	OverVotes	 	0	901	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	312
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	198
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	06	PRECINCT 6 6	3673	2264	1409	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	43
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	152
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	192
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Rand Paul	REP	0	65069	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	317
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	747
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	440
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	254
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	07	PRECINCT 7 7	4122	2529	1593	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	50
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	71
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	139
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	225
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	08	PRECINCT 8 8	1441	573	868	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	26
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	66
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	165
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	234
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	425
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	126
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	09	PRECINCT 9 9	1774	1385	389	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	21
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	61
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	116
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	144
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	354
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	94
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	10	PRECINCT 10 10	1377	1056	321	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	40
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Rand Paul	REP	0	65069	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	103
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	316
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	148
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	132
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	11	PRECINCT 11 11	2303	1295	1008	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	29
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	370
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	152
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	344
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	766
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	OverVotes	 	0	901	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	311
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	208
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	12	PRECINCT 12 12	4128	2750	1378	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	39
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	204
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	243
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	305
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	889
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	300
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	202
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	13	PRECINCT 13 13	3716	2667	1049	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	33
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Ben Carson	REP	0	65060	16
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	111
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	140
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	172
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	485
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	307
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	148
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100002	OverVotes	 	0	901	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	14	PRECINCT 14 14	2913	1679	1234	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	26
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	111
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	100
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	215
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	570
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	236
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	97
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	15	PRECINCT 15 15	2228	1518	710	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	43
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	103
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	67
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	16	PRECINCT 16 16	827	424	403	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	103
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	73
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	160
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	528
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	97
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	17	PRECINCT 17 17	2176	1626	550	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	184
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	110
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	281
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	709
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	289
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	176
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	18	PRECINCT 18 18	3560	2303	1257	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	197
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	156
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	332
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	716
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	364
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	199
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	19	PRECINCT 19 19	3916	2453	1463	0	President of the United States	 	100002	UnderVotes	 	0	902	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	68
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	106
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	198
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	335
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	203
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	87
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	20	PRECINCT 20 20	1869	1199	670	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	34
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	220
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	196
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	444
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	866
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	270
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	148
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	21	PRECINCT 21 21	3818	2793	1025	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	184
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	113
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	239
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	633
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	272
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	166
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	22	PRECINCT 22 22	2880	1970	910	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	201
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	95
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	220
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	508
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	OverVotes	 	0	901	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	201
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	168
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	23	PRECINCT 23 23	2778	1806	972	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	36
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	149
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	136
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	245
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	615
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	167
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	143
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	24	PRECINCT 24 24	3002	2144	858	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	45
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Ben Carson	REP	0	65060	18
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	184
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	204
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	401
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	974
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	306
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	179
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	25	PRECINCT 25 25	4294	3092	1202	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	39
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	166
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	199
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	395
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	902
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	289
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	163
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	26	PRECINCT 26 26	3922	2849	1073	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	34
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	224
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	180
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	416
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	818
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	246
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	158
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	27	PRECINCT 27 27	3853	2862	991	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	111
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	110
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	91
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	11
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	28	PRECINCT 28 28	514	473	41	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	90
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	113
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	262
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	130
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	92
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	29	PRECINCT 29 29	1787	1017	770	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	3
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	16
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	10
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100002	OverVotes	 	0	901	0
+MRT	Martin	10448	03/15/2016	2016 Presidential Preference Primary	30	PRECINCT 30 30	535	90	445	0	President of the United States	 	100002	UnderVotes	 	0	902	0

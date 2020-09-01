@@ -1,0 +1,242 @@
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	77
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	179
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	28
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	110	110 Paxton	1020	624	396	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	47
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	71
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	117
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	11
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	120	120 New Harmony	605	426	179	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	104
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	51
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	226
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	17
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	130	130 Mossy Head	1176	866	310	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	40
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	64
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	14
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	210	210 Gaskin	366	241	125	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	18
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	125
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	16
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	220	220 Liberty	485	351	134	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	70
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	174
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	230	230 Glendale	822	595	227	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	18
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	88
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	240	240 Darlington	368	261	107	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	272
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	53
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	164
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	595
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	181
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	310	310 North DeFuniak 	3916	2404	1512	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	131
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	38
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	97
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	258
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	105
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	320	320 Chautauqua	1568	961	607	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	114
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	59
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	194
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	330	330 West DeFuniak	1226	800	426	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	115
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	72
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	340	340 Argyle	840	432	408	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	95
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	350	350 Eucheeanna	602	376	226	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	20
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	78
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	32
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	360	360 Valley View	620	289	331	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	82
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	73
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	182
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	31
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	34
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	410	410 Choctaw Beach	888	666	222	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	139
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	13
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	420	420 Portland	542	386	156	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	253
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	83
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	227
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	615
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	147
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	143
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	430	430 Freeport	3107	2181	926	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	39
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	140
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	19
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	440	440 Bruce	654	428	226	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	36
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	32
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Ben Carson	REP	0	65060	20
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	394
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	235
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Rand Paul	REP	0	65069	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	608
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1440
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	269
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	510	510 Miramar Beach	6471	5268	1203	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	166
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	402
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	7
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	172
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	457
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1093
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	238
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	215
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	520	520 Santa Rosa Beach	5324	4076	1248	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	172
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	100
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	229
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	477
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	175
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	159
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	530	530 Point Washington	2491	1814	677	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	79
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	68
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	127
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	266
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	67
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+WAL	Walton	10448	03/15/2016	2016 Presidential Preference Primary	540	540 Rosemary Beach	1385	1087	298	0	President of the United States	 	100002	UnderVotes	 	0	902	2

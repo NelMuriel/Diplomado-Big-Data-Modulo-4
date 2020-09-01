@@ -1,0 +1,820 @@
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	96
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	165
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	101
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	54
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	1	SOUTH MILTON 01	1826	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	29
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	317
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	63
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	311
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	558
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	2	WALLACE 02	3019	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	41
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	161
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	23
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	3	COON HILL 03	666	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	133
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	21
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	104
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	312
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	63
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	4	JAY 04	1603	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	26
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	5	MUNSON AREA 05	119	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	24
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	6	MUNSON AREA 05	120	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	55
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	7	MUNSON AREA 05	275	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	93
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	196
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	102
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	72
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	8	NORTH MILTON 06	1654	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	155
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	31
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	132
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	419
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	9	WARD BASIN 07	2323	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	54
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	166
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	10	HOLLEY 08	892	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	79
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	71
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	201
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	37
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	11	COLDWATER 09	1019	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	221
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	202
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	422
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	181
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	166
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	12	POINT BAKER 10	3426	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	126
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	100
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	291
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	13	ALLENTOWN 11	1264	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	33
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	111
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	16
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	14	HAROLD 12	656	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	231
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	52
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	199
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	330
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	162
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	120
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	15	FERRIS HILL 13	3482	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	18
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	173
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	49
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	136
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	411
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	101
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	16	BAGDAD 14	2700	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	67
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	51
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	129
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	24
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	17	FIDELIS 15	794	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	16
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	26
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	378
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	62
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	368
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	622
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	138
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	143
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	18	BERRYHILL 16	3846	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	110
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	116
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	243
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	29
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	19	CHUMUCKLA 17	1109	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	27
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	418
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	73
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	422
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	639
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	130
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	165
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	20	PACE 18	4501	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	256
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	66
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	240
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	586
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	119
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	111
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	21	AVALON 19	3243	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	26
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	28
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	277
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	148
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	531
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	768
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	244
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	194
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	22	GULF BREEZE 20	4255	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	135
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	25
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	150
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	384
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	121
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	98
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	23	MIDWAY 21	2370	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	37
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	41
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	533
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	94
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	440
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	899
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	179
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	42
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	210
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	24	PEA RIDGE 22	6023	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	239
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	80
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	281
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	519
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	133
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	130
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	25	ORIOLE BEACH 23	2926	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	36
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	352
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	118
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	419
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	850
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	203
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	177
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	26	EAST NAVARRE 24	5608	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	29
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	413
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	138
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	472
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	691
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	153
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	100
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	27	WOODBINE 25	3713	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	215
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	70
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	281
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	535
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	28	TIGER POINT 26	2621	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	125
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	40
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	124
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	350
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	69
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	70
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	29	WEST NAVARRE 27	2142	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	268
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	42
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	288
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	518
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	99
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	30	PINE TERRACE 28	2451	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	78
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	224
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	73
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	31	FLORIDATOWN 29	1445	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	180
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	101
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	283
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	492
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	105
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	32	GRAND POINTE 30	2732	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	154
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	29
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	104
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	380
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	87
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	33	EAST MILTON 31	2260	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	27
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	45
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	539
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	148
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	5
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	599
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1170
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	301
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	246
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	34	HIDDEN CREEK 32	7772	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	10
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	15
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	21
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	231
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	65
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	273
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	543
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	164
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	135
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	35	BISCAYNE POINTE 33	3705	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	151
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	54
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	166
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	333
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	55
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	36	MILL CREEK 34	1845	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	135
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	43
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	176
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	321
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	59
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	37	SOUNDSIDE 35	1765	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	39
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	68
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	143
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	37
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	38	NAVARRE BEACH 36	795	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	146
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	48
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	119
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	312
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	39	GARCON POINT 37	1479	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	35
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	105
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	234
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	59
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	40	PARKWAY 38	1322	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	9
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Ben Carson	REP	0	65060	17
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	136
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	56
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	178
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	340
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	115
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	80
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100002	OverVotes	 	0	901	0
+SAN	Santa Rosa	10448	03/15/2016	2016 Presidential Preference Primary	41	WOODLAWN 39	2050	0	0	0	President of the United States	 	100002	UnderVotes	 	0	902	3

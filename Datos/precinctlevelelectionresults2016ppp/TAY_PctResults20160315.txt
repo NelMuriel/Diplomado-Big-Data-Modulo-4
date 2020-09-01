@@ -1,0 +1,141 @@
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	50
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	56
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	117
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	55
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	001	1 1st Mth	798	249	549	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	52
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	87
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	52
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	90
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	002	2 TTI	940	337	603	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	44
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	146
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	003	3 Blue Creek	742	380	362	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	14
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	11
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	004	4 Salem	130	37	93	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	22
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	205
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	29
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	005	5 Stein Comm Ctr	748	403	345	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	29
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	67
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	33
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	006	6 Shady Grove	457	163	294	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	90
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	43
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	125
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	48
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	007	7 Johnson Strip	1233	449	784	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	47
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	43
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	73
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	71
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	008	8 Pace Union Bdg	833	294	539	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	77
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	37
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	009	9 Forest Cap	623	221	402	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	65
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	64
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	010	10 Lakeside Bapt	589	215	374	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	79
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	34
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	011	11 Kelly Grade	634	241	393	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	48
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	012	12 Shrine	878	243	635	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	19
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	18
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	319
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	013	13 Jerkins	996	106	890	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	48
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	63
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	38
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	144
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	49
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	37
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+TAY	Taylor	10448	03/15/2016	2016 Presidential Preference Primary	014	14 Sports Complex	1143	459	684	0	President of the United States	 	100002	UnderVotes	 	0	902	6

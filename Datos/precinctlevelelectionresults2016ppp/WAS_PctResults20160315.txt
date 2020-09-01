@@ -1,0 +1,320 @@
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	6
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	28
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	1	CARYVILLE TOWN HALL	348	86	262	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	84
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	29
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	135
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	61
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	2	FIVE POINT COMMUNITY CENTER	800	457	343	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	59
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	21
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	71
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	19
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	3	HINSON CROSSROADS FIRE STATION	486	275	211	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Ben Carson	REP	0	65060	16
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	279
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	172
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	291
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	157
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	141
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	4	AGRICULTURE CENTER - CHIPLEY	2609	1394	1215	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	96
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	154
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	76
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	74
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	5	VERNON CITY HALL	1132	567	565	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	20
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	18
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	116
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	6	NEW HOPE - CAMPBELL PARK	515	192	323	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	107
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	59
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	170
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	47
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	7	ORANGE HILL FIRE STATION	986	545	441	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	120
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	137
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	132
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100002	OverVotes	 	0	901	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	8	ARMORY - CHIPLEY	1439	647	792	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	55
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	27
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	78
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	23
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	45
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	9	WAUSAU TOWN HALL	607	326	281	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	105
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	42
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	81
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	34
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	21
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	32
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	10	COURTS OF PRAISE CHURCH	654	402	252	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	11
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	15
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	11	EBRO CITY HALL	335	91	244	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	130
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	59
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	232
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	38
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	17
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	38
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	12	GREENHEAD	1170	857	313	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	68
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	137
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	36
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	46
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	13	SUNNY HILLS COMMUNITY CENTER	739	489	250	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	71
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	19
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	14	SHEPHERDS GATE CHURCH	436	277	159	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	7
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	35
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	OverVotes	 	0	901	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	4
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	14
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	15	RECYCLING CENTER	213	128	85	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	36
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	18
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	51
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100002	OverVotes	 	0	901	0
+WAS	Washington	10448	03/15/2016	2016 Presidential Preference Primary	16	COUNTRY OAKS BAPTIST CHURCH	385	203	182	0	President of the United States	 	100002	UnderVotes	 	0	902	2

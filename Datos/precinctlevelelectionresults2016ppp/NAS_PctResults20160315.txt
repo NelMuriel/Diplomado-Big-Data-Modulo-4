@@ -1,0 +1,300 @@
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	10
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	65
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	44
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	112
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	207
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	329
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	101		2138	835	1303	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	30
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Ben Carson	REP	0	65060	13
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	262
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	169
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	499
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	826
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	458
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	336
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	102		4626	2989	1637	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	223
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	191
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	484
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	758
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	OverVotes	 	0	901	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	363
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	261
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	201		4038	2783	1255	0	President of the United States	 	100002	UnderVotes	 	0	902	9
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	25
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	193
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	226
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	609
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	757
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	267
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	116
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	202		3233	2539	694	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	147
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	48
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	185
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	433
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	123
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	131
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	203		2531	1666	865	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Ben Carson	REP	0	65060	12
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	277
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	113
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	408
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	710
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	254
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	138
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	204		3571	2612	959	0	President of the United States	 	100002	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	17
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	188
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	65
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	238
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	516
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	177
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	301		2508	1799	709	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Ben Carson	REP	0	65060	19
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	232
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	46
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	193
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	601
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100001	UnderVotes	 	0	902	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	158
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	22
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	163
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	302		3517	2321	1196	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	214
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	30
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	154
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	596
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	178
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	26
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	143
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	303		3310	2120	1190	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	18
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	397
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	27
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	249
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	972
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	OverVotes	 	0	901	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100001	UnderVotes	 	0	902	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	186
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	137
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	401		4521	3259	1262	0	President of the United States	 	100002	UnderVotes	 	0	902	15
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	129
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	279
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	12
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	402		1108	858	250	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Ben Carson	REP	0	65060	10
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	259
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	161
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	531
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	47
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	96
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	403		2225	1730	495	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	99
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	18
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	88
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	275
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	88
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	501		1569	1006	563	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Ben Carson	REP	0	65060	22
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	458
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	32
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	287
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	1034
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	193
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	139
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	503		4628	3363	1265	0	President of the United States	 	100002	UnderVotes	 	0	902	18
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Ben Carson	REP	0	65060	11
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	258
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	22
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	187
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	704
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100001	UnderVotes	 	0	902	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	81
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100002	OverVotes	 	0	901	0
+NAS	Nassau	10448	03/15/2016	2016 Presidential Preference Primary	504		3032	2284	748	0	President of the United States	 	100002	UnderVotes	 	0	902	13

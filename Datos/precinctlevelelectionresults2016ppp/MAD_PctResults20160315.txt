@@ -1,0 +1,220 @@
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Ted Cruz	REP	0	65063	91
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Carly Fiorina	REP	0	65064	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	Donald J. Trump	REP	0	65072	123
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100001	UnderVotes	 	0	902	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	278
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	43
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	147
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	1	Agriculture Center	2098	511	1389	198	President of the United States	 	100002	UnderVotes	 	0	902	19
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Marco Rubio	REP	0	65070	5
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	Donald J. Trump	REP	0	65072	13
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	111
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	15
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	2	Madison Recreation Center	430	37	374	19	President of the United States	 	100002	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Ted Cruz	REP	0	65063	114
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	Donald J. Trump	REP	0	65072	225
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	41
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	131
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	3	Lee City Hall	1907	733	908	266	President of the United States	 	100002	UnderVotes	 	0	902	8
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Marco Rubio	REP	0	65070	10
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	Donald J. Trump	REP	0	65072	57
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	32
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	28
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	4	Voting House, Sirmans	416	162	217	37	President of the United States	 	100002	UnderVotes	 	0	902	3
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Marco Rubio	REP	0	65070	20
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	Donald J. Trump	REP	0	65072	45
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	257
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	65
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	5	Senior Citizens Building	1192	162	922	108	President of the United States	 	100002	UnderVotes	 	0	902	4
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Marco Rubio	REP	0	65070	7
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	Donald J. Trump	REP	0	65072	31
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	26
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	5
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	16
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	6	Hamburg Vol. Fire Station	252	87	144	21	President of the United States	 	100002	UnderVotes	 	0	902	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	Donald J. Trump	REP	0	65072	116
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	114
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	102
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	7	Voting House, Crossroads	1144	389	615	140	President of the United States	 	100002	UnderVotes	 	0	902	7
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Ted Cruz	REP	0	65063	74
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	Donald J. Trump	REP	0	65072	79
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	93
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	8	Pinetta Vol. Fire Dept	1025	320	593	112	President of the United States	 	100002	UnderVotes	 	0	902	13
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Ted Cruz	REP	0	65063	16
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Marco Rubio	REP	0	65070	3
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	Donald J. Trump	REP	0	65072	17
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	9	Recycling Center, Lamont	250	61	170	19	President of the United States	 	100002	UnderVotes	 	0	902	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Ben Carson	REP	0	65060	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Ted Cruz	REP	0	65063	21
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	John R. Kasich	REP	0	65068	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Marco Rubio	REP	0	65070	26
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	Donald J. Trump	REP	0	65072	55
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100001	UnderVotes	 	0	902	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	274
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	85
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	10	Board Room Madison County Annex	1487	231	1127	129	President of the United States	 	100002	UnderVotes	 	0	902	9
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Jeb Bush	REP	0	65057	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Chris Christie	REP	0	65062	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Carly Fiorina	REP	0	65064	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Jim Gilmore	REP	0	65073	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Lindsey Graham	REP	0	65065	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Mike Huckabee	REP	0	65066	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Rand Paul	REP	0	65069	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Marco Rubio	REP	0	65070	26
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Rick Santorum	REP	0	65071	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	Donald J. Trump	REP	0	65072	35
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100001	UnderVotes	 	0	902	1
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	216
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	55
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100002	OverVotes	 	0	901	0
+MAD	Madison	10448	03/15/2016	2016 Presidential Preference Primary	11	Voting House, Bunker St.	1005	156	771	78	President of the United States	 	100002	UnderVotes	 	0	902	2

@@ -1,0 +1,125 @@
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	73
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	9
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	60
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	187
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	62
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	01	1	1164	620	544	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	29
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	33
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	67
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	21
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	27
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	02	2	513	295	218	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	90
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	24
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	149
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	326
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	113
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	128
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100002	OverVotes	 	0	901	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	03	3	1893	1022	871	0	President of the United States	 	100002	UnderVotes	 	0	902	12
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	41
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	56
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	163
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	151
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	109
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	04	4	1935	722	1213	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	40
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	63
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	163
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	90
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	05	5	1118	577	541	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Ben Carson	REP	0	65060	14
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	71
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	112
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	282
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	214
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	23
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	152
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	06	6	2316	1007	1309	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	38
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	111
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	103
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	42
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	07	7	1059	437	622	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	83
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	3
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	28
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	91
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	428
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	197
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	113
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	08	8	2483	1286	1197	0	President of the United States	 	100002	UnderVotes	 	0	902	13
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	35
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	12
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	42
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	161
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	80
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	50
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	09	9	1188	589	599	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Chris Christie	REP	0	65062	2
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	153
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	41
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	10	10	833	485	348	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	25
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	163
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	88
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	37
+OKE	Okeechobee	10448	03/15/2016	2016 Presidential Preference Primary	11	11	835	422	413	0	President of the United States	 	100002	UnderVotes	 	0	902	12

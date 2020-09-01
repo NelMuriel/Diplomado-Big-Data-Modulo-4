@@ -1,0 +1,403 @@
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	83
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	92
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	01	01-South Putnam Gov Complex	718	245	473	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	68
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	32
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	90
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	97
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	13
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	02	01-South Putnam Gov Complex	955	336	619	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	60
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	46
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	35
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	244
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	80
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	79
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	03	03-Beulah Baptist Ch	1082	556	526	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	75
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	57
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	30
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	04	04-First Baptist Ch Welaka	422	191	231	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	43
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Rand Paul	REP	0	65069	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	45
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	129
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	46
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	9
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	49
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	05	04-First Baptist Ch Welaka	634	355	279	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	12
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	50
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	39
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	06	06-Pomona Pk Comm Ctr	383	159	224	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	Ben Carson	REP	0	65060	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	61
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	214
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	64
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	24
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	79
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	07	06-Pomona Pk Comm Ctr	1178	618	560	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	58
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	206
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	78
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	81
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	08	08-Satsuma Fire Dept	1052	554	498	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	24
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	20
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	61
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	30
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	18
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	09	08-Satsuma Fire Dept	489	243	246	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	12
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	92
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	17
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	101
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	418
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	211
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	27
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	166
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100002	OverVotes	 	0	901	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	10	10-Dunns Creek Bapt Ch	2349	1092	1257	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	136
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	31
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	131
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	365
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	222
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	36
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	176
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100002	OverVotes	 	0	901	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	11	11-Putnam Co Ag Ctr	2463	1111	1352	0	President of the United States	 	100002	UnderVotes	 	0	902	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	52
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	175
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	44
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	89
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	12	12-Bostwick Comm Ctr	921	498	423	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	60
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	62
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	187
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	16
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	13	12-Bostwick Comm Ctr	831	529	302	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	29
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	14
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	57
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	41
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	14	14-Bardin Fire Dept	499	272	227	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	22
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	82
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	22
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	15	14-Bardin Fire Dept	411	227	184	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	76
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	57
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	250
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	108
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	108
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	16	16-Living Hope Fmly Worship Ctr	1476	790	686	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	17	16-Living Hope Fmly Worship Ctr	17	10	7	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	17	16-Living Hope Fmly Worship Ctr	17	10	7	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	17	16-Living Hope Fmly Worship Ctr	17	10	7	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	17	16-Living Hope Fmly Worship Ctr	17	10	7	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	111
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	23
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	89
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	252
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	155
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	177
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	18	18-Trinity Episcopal Ch	1732	906	826	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	55
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	69
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	31
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	19	19-Woodlawn Bapt Ch	498	184	314	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Ben Carson	REP	0	65060	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	87
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	16
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	91
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	254
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	184
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	148
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	20	19-Woodlawn Bapt Ch	1856	867	989	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	37
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	24
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	61
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	55
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	44
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	21	21-Interlachen Comm Ctr	678	276	402	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Ben Carson	REP	0	65060	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	58
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	47
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	181
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	49
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	22	21-Interlachen Comm Ctr	1161	600	561	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	38
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	35
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	148
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	99
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	76
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	23	21-Interlachen Comm Ctr	1124	502	622	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	14
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	15
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	67
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	223
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	110
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	19
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	114
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	24	24-Grandin Lk Shores Comm Ctr	1705	861	844	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	Ben Carson	REP	0	65060	9
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	39
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	147
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	55
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	20
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100002	OverVotes	 	0	901	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	25	25-Hollister Fire Dept	1089	531	558	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	124
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	14
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	70
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	256
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	62
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	45
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	165
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	26	26-Grace Comm Bapt Ch	1652	832	820	0	President of the United States	 	100002	UnderVotes	 	0	902	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	77
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	13
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	90
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	223
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	86
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	35
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	136
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100002	OverVotes	 	0	901	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	27	27-SW Fire Dept	1613	735	878	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	78
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	56
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	46
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	28	27-SW Fire Dept	631	253	378	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	45
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Lindsey Graham	REP	0	65065	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	82
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	104
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	71
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	29	29-Edgar Johnson Sr Ctr	829	282	547	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	26
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	30	29-Edgar Johnson Sr Ctr	179	80	99	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	24
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	32	32-St Johns River St College	491	30	461	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	32	32-St Johns River St College	491	30	461	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	32	32-St Johns River St College	491	30	461	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	124
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	32	32-St Johns River St College	491	30	461	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	32	32-St Johns River St College	491	30	461	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	21
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	49
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	56
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	43
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100002	OverVotes	 	0	901	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	33	32-St Johns River St College	601	179	422	0	President of the United States	 	100002	UnderVotes	 	0	902	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	9
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	34	32-St Johns River St College	297	146	151	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	35
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	34
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	69
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	120
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	12
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	86
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	35	32-St Johns River St College	1021	303	718	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Ben Carson	REP	0	65060	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	18
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	28
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	64
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	85
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	14
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	59
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	36	36-Palatka Woman's Club	801	227	574	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	6
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	36
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Jim Gilmore	REP	0	65073	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Rand Paul	REP	0	65069	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	46
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	126
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	160
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	119
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	37	29-Edgar Johnson Sr Ctr	1421	434	987	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	11
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	3
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	17
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	53
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	89
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	38	36-Palatka Woman's Club	615	174	441	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	8
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	23
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	26
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	214
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	2
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+PUT	Putnam	10448	03/15/2016	2016 Presidential Preference Primary	39	31-Price Martin Comm Ctr	1169	114	1055	0	President of the United States	 	100002	UnderVotes	 	0	902	1

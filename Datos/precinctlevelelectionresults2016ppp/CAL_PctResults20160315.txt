@@ -1,0 +1,106 @@
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	42
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	6
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	26
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	81
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	55
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	34
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	101	101,202,401,501 Neal Civic Center	1010	297	713	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	Ben Carson	REP	0	65060	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	31
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	13
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	46
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	15
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	54
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	102	102 Westside VFD	679	190	489	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	33
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Rand Paul	REP	0	65069	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	25
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	66
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	35
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	26
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	78
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	201	201 Altha Comm Center	933	260	673	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Ben Carson	REP	0	65060	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	57
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	5
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	33
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	45
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100001	UnderVotes	 	0	902	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	54
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	32
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	66
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	202	101,202,401,501 Neal Civic Center	925	267	658	0	President of the United States	 	100002	UnderVotes	 	0	902	6
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	7
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Ben Carson	REP	0	65060	7
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	69
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	37
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	111
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	45
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	40
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	84
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	301	301 Shelton Park Lib	1172	435	737	0	President of the United States	 	100002	UnderVotes	 	0	902	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	30
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	19
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	52
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	24
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	18
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	302	302,502 Carr-Clark VFD	572	197	375	0	President of the United States	 	100002	UnderVotes	 	0	902	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	3
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	7
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Mike Huckabee	REP	0	65066	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Rick Santorum	REP	0	65071	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	17
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	137
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	33
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	401	101,202,401,501 Neal Civic Center	715	86	629	0	President of the United States	 	100002	UnderVotes	 	0	902	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100001	Jeb Bush	REP	0	65057	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	6
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	7
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	402	402,503 Kinard Library	78	21	57	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	8
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Chris Christie	REP	0	65062	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	50
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Carly Fiorina	REP	0	65064	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	4
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	30
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	53
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	22
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	28
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	53
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	501	101,202,401,501 Neal Civic Center	772	245	527	0	President of the United States	 	100002	UnderVotes	 	0	902	5
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	3
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	2
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	11
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	5
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	10
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	502	302,502 Carr-Clark VFD	183	47	136	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	14
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100001	Ben Carson	REP	0	65060	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100001	Ted Cruz	REP	0	65063	32
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100001	John R. Kasich	REP	0	65068	1
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100001	Marco Rubio	REP	0	65070	15
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100001	Donald J. Trump	REP	0	65072	36
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100002	Hillary Clinton	DEM	0	65058	25
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100002	Martin O'Malley	DEM	0	65059	11
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100002	Bernie Sanders	DEM	0	65061	36
+CAL	Calhoun	10448	03/15/2016	2016 Presidential Preference Primary	503	402,503 Kinard Library	432	140	292	0	President of the United States	 	100002	UnderVotes	 	0	902	2
